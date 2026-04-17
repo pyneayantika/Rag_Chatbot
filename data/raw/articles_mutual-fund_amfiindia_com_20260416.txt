@@ -1,0 +1,70 @@
+---
+source_url: https://www.amfiindia.com/articles/mutual-fund
+scrape_date: 20260416
+tier: tier_3_amfi
+scheme_name: articles_mutual-fund
+domain: amfiindia.com
+content_hash: sha256:c09bac7194cf454582ed607743e52e923bcd0201585c6b1da086f4e91fe011c3
+word_count: 335
+---
+
+AMFI
+MF
+SIF
+A-
+A
+A+
+Light
+Dark
+Investor
+Distributor
+Research & Information
+About AMFI
+Contact Us
+Search
+Total amount collected through during March 2026 was ₹ 32,087 crore.
+Systematic Investment Plan
+ or 
+SIP 
+as it is commonly known, is an investment plan (methodology) offered by Mutual Funds wherein one could invest a fixed amount in a mutual fund Scheme periodically at fixed intervals – say once a month instead of making a lump-sum investment. The SIP instalment amount could be as small as ₹500 per month and ₹ 250 per month under Chhoti SIP. SIP is similar to a recurring deposit where you deposit a small /fixed amount every month.
+SIP is a very convenient method of investing in mutual funds through standing instructions to debit your bank account every month, without the hassle of having to write out a cheque each time.
+SIP has been gaining popularity among Indian MF investors, as it helps in Rupee Cost Averaging and also in investing in a disciplined manner without worrying about market volatility and timing the market.
+Month-wise SIP contribution collected from FY 2016-17 onwards are mentioned below:
+Details of new SIPs registered and discontinued during FY 25-26 are as under : 
+(SIP Count in Lakh)
+* As per SEBI guidelines, the SIPs where 
+ - 3 consecutive instalments with respect to daily, weekly, fortnightly, and monthly intervals and 
+ - 2 consecutive instalments with respect to others are failed, are treated as ceased/discontinued.
+# Includes the past/legacy data on account of above reason, revised on 14th May 2025.
+Association of Mutual Funds in India
+CIN- U65991MH1995NPL092062
+Know About AMFI
+About AMFI
+Objectives
+Board of Directors
+AMFI Executives
+Committees
+View More
+Media
+Press Release
+AMFI Publications
+AMFI Mutual Fund Summit
+Gallery
+Videos
+Other Links
+Schedule of Investor Awareness Program
+AMC Branches
+Locate a MF Distributor
+SEBI
+Useful Links
+View More
+TERMS OF USE
+|
+PRIVACY NOTICE
+© 2025 AMFI. All Rights Reserved
+Quick Access
+Latest NAV
+Download NAV
+Disclosure of Risk Parameters
+New Fund Offer
+View All

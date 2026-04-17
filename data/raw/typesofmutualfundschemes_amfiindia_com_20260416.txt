@@ -1,0 +1,151 @@
+---
+source_url: https://www.amfiindia.com/investor/knowledge-center-info?zoneName=TypesOfMutualFundSchemes
+scrape_date: 20260416
+tier: tier_3_amfi
+scheme_name: typesofmutualfundschemes
+domain: amfiindia.com
+content_hash: sha256:3fc1c00051f94c5b4a2c81645a74ba0ff39f4643564ccddb71cd89ba8e6a4328
+word_count: 1070
+---
+
+AMFI
+MF
+SIF
+A-
+A
+A+
+Light
+Dark
+Investor
+Distributor
+Research & Information
+About AMFI
+Contact Us
+Search
+Home
+/
+Investor Corner
+/
+Types of Mutual Fund Schemes
+Types of Mutual Fund Schemes
+Mutual Fund Scheme classification
+Mutual funds come in many varieties, designed to meet different investor goals. Mutual funds can be broadly classified
+ based on -
+Organisation Structure – Open ended, Close ended, Interval
+Management of Portfolio – Actively or Passively
+Investment Objective – Growth, Income, Liquidity
+Underlying Portfolio – Equity, Debt, Hybrid, Money market instruments, Multi Asset
+Thematic / solution oriented – Tax saving, Retirement benefit, Child welfare, Arbitrage
+Exchange Traded Funds
+Overseas funds
+Fund of funds
+Scheme Classification by Organization Structure
+•
+ Open-ended schemes
+ are perpetual, and open for subscription and repurchase on a continuous basis on all business days at the current NAV.
+• 
+Close-ended schemes
+ have a fixed maturity date. The units are issued at the time of the initial offer and redeemed only on maturity. The units of close-ended schemes are mandatorily listed to provide exit route before maturity and can be sold/traded on the stock exchanges.
+•
+ Interval schemes
+ allow purchase and redemption during specified transaction periods (intervals). The transaction period has to be for a minimum of 2 days and there should be at least a 15-day gap between two transaction periods. The units of interval schemes are also mandatorily listed on the stock exchanges.
+Scheme Classification by Portfolio Management
+Active Funds
+In an Active Fund, the Fund Manager is ‘Active’ in deciding whether to Buy, Hold, or Sell the underlying securities and in stock selection. Active funds adopt different strategies and styles to create and manage the portfolio.
+The investment strategy and style are described upfront in the Scheme Information document (offer document)
+Active funds expect to generate better returns (alpha) than the benchmark index.
+The risk and return in the fund will depend upon the strategy adopted.
+Active funds implement strategies to ‘select’ the stocks for the portfolio.
+Passive Funds
+Passive Funds hold a portfolio that replicates a stated Index or Benchmark e.g. –
+Index Funds
+Exchange Traded Funds (ETFs)
+In a Passive Fund, the fund manager has a passive role, as the stock selection / Buy, Hold, Sell decision is driven by the Benchmark Index and the fund manager / dealer merely needs to replicate the same with minimal tracking error.
+Active v/s Passive Funds
+Active Fund –
+Rely on professional fund managers who manage investments.
+Aim to outperform Benchmark Index
+Suited for investors who wish to take advantage of fund managers' alpha generation potential.
+Passive Funds –
+Investment holdings mirror and closely track a benchmark index, e.g., Index Funds or Exchange Traded Funds (ETFs)
+Suited for investors who want to allocate exactly as per market index.
+Lower Expense ratio hence lower costs to investors and better liquidity
+Classification by Investment Objectives
+Mutual funds offer products that cater to the different investment objectives of the investors such as –
+Capital Appreciation (Growth)
+Capital Preservation
+Regular Income
+Liquidity
+Tax-Saving
+Mutual funds also offer investment plans, such as Growth and Dividend options, to help tailor the investment to the investors’ needs.
+Growth funds
+Growth Funds are schemes that are designed to provide capital appreciation.
+Primarily invest in growth oriented assets, such as equity
+Investment in growth-oriented funds require a medium to long-term investment horizon.
+Historically, Equity as an asset class has outperformed most other kind of investments held over the long term. However, returns from Growth funds tend to be volatile over the short-term since the prices of the underlying equity shares may change.
+Hence investors must be able to take volatility in the returns in the short-term.
+Income funds
+The objective of Income Funds is to provide regular and steady income to investors.
+Income funds invest in fixed income securities such as Corporate Bonds, Debentures and Government securities.
+The fund’s return is from the interest income earned on these investments as well as capital gains from any change in the value of the securities.
+The fund will distribute the income provided the portfolio generates the required returns. There is no guarantee of income.
+The returns will depend upon the tenor and credit quality of the securities held.
+Liquid / Overnight /Money Market Mutual Funds
+Liquid Schemes, Overnight Funds and Money market mutual fund are investment options for investors seeking liquidity and principal protection, with commensurate returns.
+– The funds invest in money market instruments* with maturities not exceeding 91 days.
+– The return from the funds will depend upon the short-term interest rate prevalent in the market.
+These are ideal for investors who wish to park their surplus funds for short periods.
+– Investors who use these funds for longer holding periods may be sacrificing better returns possible from products suitable for a longer holding period.
+* Money Market Instruments includes commercial papers, commercial bills, treasury bills, Government securities having an unexpired maturity up to one year, call or notice money, certificate of deposit, usance bills, and any other like instruments as specified by the Reserve Bank of India from time to time.
+Classification by Investment Portfolio
+Mutual fund products can be classified based on their underlying portfolio composition
+– The first level of categorization will be on the basis of the asset class the fund invests in, such as equity / debt / money market instruments or gold.
+– The second level of categorization is on the basis of strategies and styles used to create the portfolio, such as, Income fund, Dynamic Bond Fund, Infrastructure fund, Large-cap/Mid-cap/Small-cap Equity fund, Value fund, etc.
+– The portfolio composition flows out of the investment objectives of the scheme.
+Hide Menu
+What's Covered?
+Mutual Fund Scheme classification
+Scheme Classification by Organization Structure
+Scheme Classification by Portfolio Management
+Active v/s Passive Funds
+Classification by Investment Objectives
+Growth funds
+Income funds
+Liquid / Overnight /Money Market Mutual Funds
+Classification by Investment Portfolio
+Related Topics
+Categorization of MF Schemes
+Risks in MF
+Advantages of Investing in MF
+Association of Mutual Funds in India
+CIN- U65991MH1995NPL092062
+Know About AMFI
+About AMFI
+Objectives
+Board of Directors
+AMFI Executives
+Committees
+View More
+Media
+Press Release
+AMFI Publications
+AMFI Mutual Fund Summit
+Gallery
+Videos
+Other Links
+Schedule of Investor Awareness Program
+AMC Branches
+Locate a MF Distributor
+SEBI
+Useful Links
+View More
+TERMS OF USE
+|
+PRIVACY NOTICE
+© 2025 AMFI. All Rights Reserved
+Quick Access
+Latest NAV
+Download NAV
+Disclosure of Risk Parameters
+New Fund Offer
+View All

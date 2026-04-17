@@ -1,0 +1,26 @@
+---
+source_url: https://www.hdfcfund.com/investor-services/fund-documents/sid
+scrape_date: 20260416
+tier: tier_2_hdfc_amc
+scheme_name: fund-documents_sid
+domain: hdfcfund.com
+content_hash: sha256:9baff6629c9327d0a8933f7be1775faf9dc7cd35142ce971ef946f9d697957a9
+word_count: 92
+---
+
+Scheme Information Document (SID) | HDFC Mutual Fund
+Fund Documents
+KIM
+SID
+Scheme Summary
+FILTERS
+SID - HDFC Hybrid Debt Fund dated November 21, 2025
+SID - HDFC Housing Opportunities Fund dated November 21, 2025
+SID - HDFC Retirement Savings (Hybrid Debt Plan) Fund dated November 21, 2025
+SID - HDFC Charity Fund for Cancer Cure - Debt Plan
+SID - HDFC Charity Fund for Cancer Cure - Arbitrage Plan
+SID 1-HDFC CPO-I-36M Aug 2013
+SID-2-HDFC CPO-I-36M September 2013
+SID-3-HDFC CPO-I-36M October 2013
+SID1-HDFC CPO-II-36M January 2014
+SID 2-HDFC CPO-II-36M February 2014

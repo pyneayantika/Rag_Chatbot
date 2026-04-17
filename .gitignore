@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ChromaDB persistent storage
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Data (optional — uncomment to exclude scraped data from repo)
+# data/raw/
+# data/chunks/

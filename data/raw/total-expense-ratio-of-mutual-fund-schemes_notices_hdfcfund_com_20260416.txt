@@ -1,0 +1,53 @@
+---
+source_url: https://www.hdfcfund.com/statutory-disclosure/total-expense-ratio-of-mutual-fund-schemes/notices
+scrape_date: 20260416
+tier: tier_2_hdfc_amc
+scheme_name: total-expense-ratio-of-mutual-fund-schemes_notices
+domain: hdfcfund.com
+content_hash: sha256:70e14667e3bb52b050bab65cb7e86a968891af58bf11f58d17b11c6f81b76220
+word_count: 475
+---
+
+Total Expense Ratio of Mutual Fund Schemes - HDFC Mutual Fund
+Total Expense Ratio
+Total Expense Ratio of Mutual Fund Schemes
+Notices
+Select year
+View by fiscal year
+HDFC NIFTY 1D RATE LIQUID ETF Notice for Expense change 08-04-2026 RP WEF 16-04-2026.pdf
+HDFC Arbitrage Fund Notice for Expense change 07-04-2026 RP WEF 16-04-2026.pdf
+HDFC Value Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Ultra Short Term Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Technology Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Retirement Savings Fund - Hybrid-Equity Plan Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Pharma and Healthcare Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Overnight Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Nifty 50 Index Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Multi-Asset Allocation Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Multi-Asset Active FOF Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Multi Cap Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC MNC Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Mid Cap Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Medium Term Debt Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Low Duration Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Large Cap Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Innovation Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Income Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Hybrid Equity Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Housing Opportunities Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Gold ETF Fund of Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Gilt Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Focused Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Floating Rate Debt Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Flexi Cap Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Equity Savings Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Dividend Yield Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Developed World Overseas Equity Passive FOF Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Defence Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Credit Risk Debt Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Corporate Bond Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Consumption Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Children's Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Banking & Financial Services Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+HDFC Balanced Advantage Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+Consolidated Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf

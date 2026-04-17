@@ -1,0 +1,26 @@
+---
+source_url: https://www.hdfcfund.com/investor-services/fund-documents/kim
+scrape_date: 20260416
+tier: tier_2_hdfc_amc
+scheme_name: fund-documents_kim
+domain: hdfcfund.com
+content_hash: sha256:783ee15838aa9383a8999df60f11adeccc4c19eda8470fe0415d4a488f490de6
+word_count: 110
+---
+
+Key Information Memorandum (KIM) | HDFC Mutual Fund
+Fund Documents
+KIM
+SID
+Scheme Summary
+FILTERS
+KIM - HDFC Large Cap Fund dated November 21, 2025
+KIM - HDFC ELSS Tax Saver dated November 21, 2025
+KIM - HDFC Small Cap Fund dated November 21, 2025
+KIM - HDFC Short Term Debt Fund dated November 21, 2025
+KIM - HDFC BSE SENSEX ETF dated November 21, 2025
+KIM and App form - HDFC Retirement Savings Fund dated November 21, 2025
+KIM - HDFC Regular Savings Fund
+KIM - HDFC Prudence Fund 
+KIM - HDFC Hybrid Equity Fund dated November 21, 2025
+KIM - HDFC NIFTY 50 ETF dated November 21, 2025

@@ -1,0 +1,14 @@
+playwright
+requests
+beautifulsoup4
+pymupdf
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+google-generativeai
+sentence-transformers
+torch
+chromadb
+streamlit
+python-dotenv
