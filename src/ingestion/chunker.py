@@ -40,7 +40,7 @@ CHUNKS_OUTPUT = CHUNKS_DIR / "chunks_latest.pkl"
 CHUNK_SIZE = 400
 CHUNK_OVERLAP = 50
 MIN_TOTAL_CHUNKS = 100
-MAX_TOTAL_CHUNKS = 500
+MAX_TOTAL_CHUNKS = 1500
 
 
 # ============================================================================
