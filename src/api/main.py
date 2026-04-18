@@ -23,6 +23,7 @@ load_dotenv()
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
+DEBUG_LLM_PATH = os.getenv("DEBUG_LLM_PATH", "false").lower() == "true"
 
 app = FastAPI(title="HDFC MF FAQ API", version="1.0.0")
 
@@ -133,6 +134,13 @@ def chat(req: ChatRequest):
             )
 
         answer = generate_response(query, chunks)
+        if DEBUG_LLM_PATH:
+            if answer.startswith("I could not generate a full response right now due to high traffic."):
+                logger.info("LLM path=rate_limit_fallback session_id=%s", session_id)
+            elif answer == "Too many requests. Please wait 30 seconds.":
+                logger.info("LLM path=rate_limit_message session_id=%s", session_id)
+            else:
+                logger.info("LLM path=normal session_id=%s", session_id)
 
         meta = getattr(chunks[0], "metadata", {}) or {}
         source_url = meta.get("source_url", "")

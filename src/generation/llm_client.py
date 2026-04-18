@@ -1,20 +1,21 @@
 """
 LLM client for the HDFC Mutual Fund RAG Chatbot.
 
-Uses Google Gemini (via ``langchain-google-genai``) with temperature=0
-to produce factual, context-only responses. No investment advice,
-no opinions, no PII handling.
+Uses Groq (via ``langchain-groq``) with temperature=0 to produce
+factual, context-only responses. No investment advice, no opinions,
+no PII handling.
 """
 
 from __future__ import annotations
 
 import os
+import time
 from pathlib import Path
 
 from dotenv import load_dotenv
 from langchain_core.documents import Document
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_groq import ChatGroq
 
 # ---------------------------------------------------------------------------
 # Load environment variables
@@ -40,22 +41,25 @@ STRICT RULES:
 7. Do not speculate, extrapolate, or provide forward-looking statements.
 """
 
+MAX_CONTEXT_CHUNKS = 1
+MAX_CHARS_PER_CHUNK = 600
+RATE_LIMIT_RETRIES = 2
+
 
 # ============================================================================
 # LLM initialisation
 # ============================================================================
 
-def _get_llm() -> ChatGoogleGenerativeAI:
-    """Initialise the Gemini LLM client."""
-    api_key = os.getenv("GEMINI_API_KEY")
+def _get_llm() -> ChatGroq:
+    """Initialise the Groq LLM client."""
+    api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
-        raise ValueError("GEMINI_API_KEY not found in environment")
+        raise ValueError("GROQ_API_KEY not found in environment")
 
-    return ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash",
+    return ChatGroq(
+        model="llama-3.1-8b-instant",
         temperature=0,
-        google_api_key=api_key,
-        timeout=60,
+        api_key=api_key,
         max_retries=2,
     )
 
@@ -67,15 +71,34 @@ def _get_llm() -> ChatGoogleGenerativeAI:
 def _format_context(chunks: list[Document]) -> str:
     """Format retrieved chunks into a numbered context block."""
     parts: list[str] = []
-    for idx, chunk in enumerate(chunks, start=1):
+    for idx, chunk in enumerate(chunks[:MAX_CONTEXT_CHUNKS], start=1):
         meta = chunk.metadata
+        content = chunk.page_content[:MAX_CHARS_PER_CHUNK]
         parts.append(
             f"[Context {idx}]\n"
             f"Source URL: {meta.get('source_url', 'N/A')}\n"
             f"Last updated: {meta.get('scrape_date', 'N/A')}\n"
-            f"{chunk.page_content}"
+            f"{content}"
         )
     return "\n\n".join(parts)
+
+
+def _rate_limit_fallback(chunks: list[Document]) -> str:
+    if not chunks:
+        return "I do not have verified information for this. Please check https://www.hdfcfund.com"
+
+    top = chunks[0]
+    meta = top.metadata or {}
+    source_url = meta.get("source_url", "https://www.hdfcfund.com")
+    last_updated = meta.get("scrape_date", meta.get("last_updated", "N/A"))
+    snippet = " ".join(top.page_content.split())[:220]
+
+    return (
+        f"I could not generate a full response right now due to high traffic. "
+        f"Verified snippet: {snippet}\n"
+        f"Source: {source_url}\n"
+        f"Last updated from sources: {last_updated}"
+    )
 
 
 # ============================================================================
@@ -83,7 +106,7 @@ def _format_context(chunks: list[Document]) -> str:
 # ============================================================================
 
 def generate_response(query: str, chunks: list[Document]) -> str:
-    """Generate a factual response using Gemini with retrieved context.
+    """Generate a factual response using Groq with retrieved context.
 
     Args:
         query: The user's natural-language question.
@@ -93,32 +116,46 @@ def generate_response(query: str, chunks: list[Document]) -> str:
         The LLM's response as a string.
 
     Raises:
-        ValueError: If ``GEMINI_API_KEY`` is not set in the environment.
+        ValueError: If ``GROQ_API_KEY`` is not set in the environment.
     """
-    llm = _get_llm()
-
-    context = _format_context(chunks)
-    user_message = f"{context}\n\nQuestion: {query}"
-
-    messages = [
-        SystemMessage(content=SYSTEM_PROMPT),
-        HumanMessage(content=user_message),
-    ]
-
     try:
-        response = llm.invoke(messages)
-        return response.content
+        llm = _get_llm()
 
-    except Exception as exc:
-        error_msg = str(exc).lower()
+        context = _format_context(chunks)
+        user_message = f"{context}\n\nQuestion: {query}"
 
-        if "timeout" in error_msg or "deadline" in error_msg:
-            return "Response timeout. Please try again."
+        messages = [
+            SystemMessage(content=SYSTEM_PROMPT),
+            HumanMessage(content=user_message),
+        ]
 
-        if "429" in str(exc) or "rate limit" in error_msg or "resource_exhausted" in error_msg:
-            return "Too many requests. Please wait 30 seconds."
+        for attempt in range(RATE_LIMIT_RETRIES + 1):
+            try:
+                response = llm.invoke(messages)
+                return response.content
+            except Exception as exc:
+                error_msg = str(exc).lower()
 
-        # Re-raise unexpected errors
+                if (
+                    "429" in str(exc)
+                    or "rate limit" in error_msg
+                    or "resource_exhausted" in error_msg
+                ) and attempt < RATE_LIMIT_RETRIES:
+                    time.sleep(3 * (attempt + 1))
+                    continue
+
+                if "timeout" in error_msg or "deadline" in error_msg:
+                    return "Response timeout. Please try again."
+
+                if "429" in str(exc) or "rate limit" in error_msg or "resource_exhausted" in error_msg:
+                    return _rate_limit_fallback(chunks)
+
+                raise
+
+    except ValueError as exc:
+        return str(exc)
+
+    except Exception:
         raise
 
 
