@@ -54,7 +54,7 @@ def _get_embeddings() -> GoogleGenerativeAIEmbeddings:
     """Initialise the Google Generative AI embedding model."""
     print("Loading Google Generative AI Embeddings...")
     embeddings = GoogleGenerativeAIEmbeddings(
-        model="models/embedding-001",
+        model="models/gemini-embedding-001",
         google_api_key=os.getenv("GEMINI_API_KEY"),
     )
     print("Google Generative AI Embeddings loaded: models/embedding-001")
@@ -81,15 +81,30 @@ def embed_and_store() -> Chroma:
         print(f"Deleting existing {CHROMA_DIR}/ ...")
         shutil.rmtree(CHROMA_DIR)
 
-    print(f"Embedding {len(chunks)} chunks into ChromaDB...")
+    BATCH_SIZE = 40  # stay well under Gemini free-tier 100 RPM limit
+    total = len(chunks)
+    print(f"Embedding {total} chunks into ChromaDB (batches of {BATCH_SIZE})...")
     start = time.time()
 
+    # First batch creates the vectorstore
+    first_batch = chunks[:BATCH_SIZE]
     vectorstore = Chroma.from_documents(
-        documents=chunks,
+        documents=first_batch,
         embedding=embeddings,
         collection_name=COLLECTION_NAME,
         persist_directory=str(CHROMA_DIR),
     )
+    print(f"  Batch 1/{-(-total // BATCH_SIZE)}: {len(first_batch)} chunks embedded")
+
+    # Remaining batches added with rate-limit delay
+    for i in range(BATCH_SIZE, total, BATCH_SIZE):
+        batch = chunks[i:i + BATCH_SIZE]
+        batch_num = (i // BATCH_SIZE) + 1
+        total_batches = -(-total // BATCH_SIZE)
+        print(f"  Waiting 60s for rate limit cooldown...")
+        time.sleep(60)
+        vectorstore.add_documents(batch)
+        print(f"  Batch {batch_num}/{total_batches}: {len(batch)} chunks embedded")
 
     elapsed = time.time() - start
     count = vectorstore._collection.count()
