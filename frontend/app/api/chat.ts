@@ -18,17 +18,20 @@ export async function sendMessage(
       }
     )
     return response.data
-  } catch (error: any) {
-    if (error.code === 'ECONNABORTED') {
-      throw new Error('Request timed out. Please try again.')
+  } catch (error: unknown) {
+    if (axios.isAxiosError(error)) {
+      if (error.code === 'ECONNABORTED') {
+        throw new Error('Request timed out. Please try again.')
+      }
+      if (error.response?.status === 500) {
+        throw new Error('Server error. Please try again.')
+      }
+      throw new Error(
+        error.response?.data?.detail || 
+        'Failed to get response. Please try again.'
+      )
     }
-    if (error.response?.status === 500) {
-      throw new Error('Server error. Please try again.')
-    }
-    throw new Error(
-      error.response?.data?.detail || 
-      'Failed to get response. Please try again.'
-    )
+    throw new Error('Failed to get response. Please try again.')
   }
 }
 

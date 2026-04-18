@@ -90,10 +90,11 @@ export default function Home() {
         is_refusal: response.is_refusal,
         is_pii: response.is_pii,
       })
-    } catch (error: any) {
+    } catch (error: unknown) {
+      const err = error as Error
       addMessage({
         role: 'assistant',
-        content: error.message || 'Something went wrong. Please try again.',
+        content: err.message || 'Something went wrong. Please try again.',
         is_refusal: true,
       })
     } finally {
