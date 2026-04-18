@@ -2,7 +2,7 @@ import axios from 'axios'
 import { ChatResponse } from '../types'
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 
-                'http://localhost:8000'
+                'https://rag-chatbot-1zjy.onrender.com'
 
 export async function sendMessage(
   query: string, 
