@@ -40,7 +40,7 @@ st.set_page_config(
 # 2. Header
 # ============================================================================
 st.title(":chart_with_upwards_trend: HDFC Mutual Fund FAQ Assistant")
-st.caption("Powered by Groww data | Facts only — no investment advice")
+st.caption("Powered by Groww · HDFC AMC · AMFI · SEBI data | Facts only — no investment advic")
 
 # ============================================================================
 # 3. Persistent disclaimer banner
