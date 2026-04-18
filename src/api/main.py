@@ -68,6 +68,20 @@ def root():
     }
 
 
+@app.get("/debug/paths")
+def debug_paths():
+    from pathlib import Path
+    project_root = Path(__file__).resolve().parents[2]
+    chroma_dir = project_root / "chroma_db"
+    return {
+        "project_root": str(project_root),
+        "chroma_dir": str(chroma_dir),
+        "chroma_exists": chroma_dir.exists(),
+        "chroma_contents": [str(f.name) for f in chroma_dir.iterdir()] if chroma_dir.exists() else [],
+        "root_contents": [str(f.name) for f in project_root.iterdir() if not str(f.name).startswith('.')],
+    }
+
+
 @app.post("/api/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
     try:
