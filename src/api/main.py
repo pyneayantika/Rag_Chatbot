@@ -19,6 +19,25 @@ from src.retrieval.retriever import retrieve
 from src.generation.llm_client import generate_response
 
 
+def _api_rate_limit_fallback(chunks: list) -> str:
+    if not chunks:
+        return "I do not have verified information for this. Please check https://www.hdfcfund.com"
+
+    top = chunks[0]
+    meta = getattr(top, "metadata", {}) or {}
+    source_url = meta.get("source_url", "https://www.hdfcfund.com")
+    last_updated = meta.get("scrape_date", meta.get("last_updated", "N/A"))
+    content = getattr(top, "page_content", "") or ""
+    snippet = " ".join(content.split())[:220]
+
+    return (
+        "I could not generate a full response right now due to high traffic. "
+        f"Verified snippet: {snippet}\n"
+        f"Source: {source_url}\n"
+        f"Last updated from sources: {last_updated}"
+    )
+
+
 load_dotenv()
 
 logger = logging.getLogger(__name__)
@@ -134,6 +153,8 @@ def chat(req: ChatRequest):
             )
 
         answer = generate_response(query, chunks)
+        if answer == "Too many requests. Please wait 30 seconds.":
+            answer = _api_rate_limit_fallback(chunks)
         if DEBUG_LLM_PATH:
             if answer.startswith("I could not generate a full response right now due to high traffic."):
                 logger.info("LLM path=rate_limit_fallback session_id=%s", session_id)

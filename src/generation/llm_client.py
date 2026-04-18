@@ -44,6 +44,7 @@ STRICT RULES:
 MAX_CONTEXT_CHUNKS = 1
 MAX_CHARS_PER_CHUNK = 600
 RATE_LIMIT_RETRIES = 2
+MAX_OUTPUT_TOKENS = 160
 
 
 # ============================================================================
@@ -60,6 +61,7 @@ def _get_llm() -> ChatGroq:
         model="llama-3.1-8b-instant",
         temperature=0,
         api_key=api_key,
+        max_tokens=MAX_OUTPUT_TOKENS,
         max_retries=2,
     )
 
@@ -155,7 +157,10 @@ def generate_response(query: str, chunks: list[Document]) -> str:
     except ValueError as exc:
         return str(exc)
 
-    except Exception:
+    except Exception as exc:
+        error_msg = str(exc).lower()
+        if "too many requests. please wait 30 seconds." in error_msg:
+            return _rate_limit_fallback(chunks)
         raise
 
 
