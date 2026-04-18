@@ -12,3 +12,6 @@ torch
 chromadb
 streamlit
 python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
