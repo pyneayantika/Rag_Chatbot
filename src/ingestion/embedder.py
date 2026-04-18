@@ -1,21 +1,20 @@
 """
 Embedder for the HDFC Mutual Fund RAG Chatbot.
 
-Uses BAAI/bge-small-en-v1.5 (free, local) embeddings via
-HuggingFaceEmbeddings and stores vectors in a persistent
-ChromaDB collection.
-
-No API keys required — all inference runs locally on CPU.
+Uses Google Generative AI Embeddings (embedding-001) and
+stores vectors in a persistent ChromaDB collection.
 """
 
 from __future__ import annotations
 
+import os
 import pickle
 import shutil
 import time
 from pathlib import Path
 
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from dotenv import load_dotenv
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 
@@ -27,11 +26,9 @@ CHUNKS_PKL = PROJECT_ROOT / "data" / "chunks" / "chunks_latest.pkl"
 CHROMA_DIR = PROJECT_ROOT / "chroma_db"
 
 # ---------------------------------------------------------------------------
-# Embedding model config
+# Environment
 # ---------------------------------------------------------------------------
-MODEL_NAME = "BAAI/bge-small-en-v1.5"
-MODEL_KWARGS = {"device": "cpu"}
-ENCODE_KWARGS = {"normalize_embeddings": True}
+load_dotenv(PROJECT_ROOT / ".env")
 
 COLLECTION_NAME = "hdfc_mf_faq_corpus"
 
@@ -53,15 +50,14 @@ def _load_chunks() -> list[Document]:
     return chunks
 
 
-def _get_embeddings() -> HuggingFaceEmbeddings:
-    """Initialise the BGE embedding model."""
-    print("Loading BGE model...")
-    embeddings = HuggingFaceEmbeddings(
-        model_name=MODEL_NAME,
-        model_kwargs=MODEL_KWARGS,
-        encode_kwargs=ENCODE_KWARGS,
+def _get_embeddings() -> GoogleGenerativeAIEmbeddings:
+    """Initialise the Google Generative AI embedding model."""
+    print("Loading Google Generative AI Embeddings...")
+    embeddings = GoogleGenerativeAIEmbeddings(
+        model="models/embedding-001",
+        google_api_key=os.getenv("GEMINI_API_KEY"),
     )
-    print(f"BGE model loaded: {MODEL_NAME}")
+    print("Google Generative AI Embeddings loaded: models/embedding-001")
     return embeddings
 
 
@@ -69,7 +65,7 @@ def embed_and_store() -> Chroma:
     """Embed all chunks and store them in ChromaDB.
 
     1. Loads ``data/chunks/chunks_latest.pkl``
-    2. Initialises BAAI/bge-small-en-v1.5 embeddings
+    2. Initialises Google Generative AI embeddings
     3. Deletes existing ``chroma_db/`` directory if present
     4. Creates a ChromaDB collection via ``Chroma.from_documents()``
     5. Prints total chunks upserted
@@ -107,7 +103,7 @@ def embed_and_store() -> Chroma:
 def get_vectorstore() -> Chroma:
     """Load the persisted ChromaDB vectorstore.
 
-    Initialises the same BGE embedding model and connects
+    Initialises the same Google embedding model and connects
     to the existing ``chroma_db/`` directory.
 
     Returns:
