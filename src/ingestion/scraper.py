@@ -376,6 +376,10 @@ async def scrape_all() -> list[Path]:
     """
     today = datetime.now(IST).strftime("%Y%m%d")
     saved_files: list[Path] = []
+    RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    for old_file in RAW_DATA_DIR.glob("*.txt"):
+        old_file.unlink()
+        logger.info("Deleted old file: %s", old_file.name)
 
     logger.info("=" * 60)
     logger.info("Starting scrape_all — %d URLs — %s", len(URLS), today)
