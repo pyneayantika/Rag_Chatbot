@@ -28,9 +28,12 @@ export default function Header() {
     <header className="shadow-lg border-b border-[#2A2A4A]" style={{ backgroundColor: 'var(--bg-header)' }}>
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 bg-groww-green rounded-xl flex items-center justify-center text-white shadow-green">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+          <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shadow-green">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Groww logo">
+              <path d="M4 16.8C4 14.8 5.6 13.2 7.6 13.2H10.2V16.8C10.2 18.8 8.6 20.4 6.6 20.4H4V16.8Z" fill="#00D09C"/>
+              <path d="M13.8 7.2C13.8 5.2 15.4 3.6 17.4 3.6H20V7.2C20 9.2 18.4 10.8 16.4 10.8H13.8V7.2Z" fill="#00D09C"/>
+              <path d="M4 7.2C4 5.2 5.6 3.6 7.6 3.6H10.2V10.8H7.6C5.6 10.8 4 9.2 4 7.2Z" fill="#4A67FF"/>
+              <path d="M13.8 13.2H20V16.8C20 18.8 18.4 20.4 16.4 20.4H13.8V13.2Z" fill="#4A67FF"/>
             </svg>
           </div>
           <div>
