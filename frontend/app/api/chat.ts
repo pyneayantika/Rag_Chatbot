@@ -2,7 +2,7 @@ import axios from 'axios'
 import { ChatResponse } from '../types'
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 
-                'https://rag-chatbot-1zjy.onrender.com'
+                'https://rag-chatbot-wbqkcg.fly.dev'
 
 export async function sendMessage(
   query: string, 
@@ -13,7 +13,7 @@ export async function sendMessage(
       `${API_URL}/api/chat`,
       { query, session_id: sessionId },
       { 
-        timeout: 60000,
+        timeout: 120000,
         headers: { 'Content-Type': 'application/json' }
       }
     )
@@ -38,7 +38,7 @@ export async function sendMessage(
 export async function checkHealth(): Promise<boolean> {
   try {
     const controller = new AbortController()
-    const timeoutId = setTimeout(() => controller.abort(), 5000)
+    const timeoutId = setTimeout(() => controller.abort(), 20000)
     const response = await fetch(`${API_URL}/health`, {
       signal: controller.signal,
     })
