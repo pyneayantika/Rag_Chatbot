@@ -1,14 +1,15 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver/direct
-scrape_date: 20260416
+scrape_date: 20260429
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-elss-tax-saver_direct
 domain: hdfcfund.com
-content_hash: sha256:97a68e264d350252961c41172a9338f4c2c13fdfd5ce302b6f0ad974b5b4d9f2
+content_hash: sha256:476192a7b608ecba22feba3946d40e948c3eee6826147df92a5690c03969e353
 word_count: 984
 ---
 
 HDFC ELSS Tax Saver Fund Direct Growth - NAV, Portfolio and Performance | HDFC Mutual Funds
+
 HDFC 
 ELSS Tax Saver
 Tax Saver
@@ -53,7 +54,7 @@ Disclaimer
 Including Additional Expenses and Goods and Service Tax on Management Fees, if any. 
 Click here
  to view the Total Expense Ratio
-1.17
+1.38
 Lock in
 A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
 

@@ -1,14 +1,15 @@
 ---
 source_url: https://www.hdfcfund.com/investor-services/fund-documents/kim
-scrape_date: 20260416
+scrape_date: 20260429
 tier: tier_2_hdfc_amc
 scheme_name: fund-documents_kim
 domain: hdfcfund.com
-content_hash: sha256:783ee15838aa9383a8999df60f11adeccc4c19eda8470fe0415d4a488f490de6
+content_hash: sha256:f545b1f90ad33d40055c2ecdb06c45ae170a3017a363bc915fa11ba0394de39b
 word_count: 110
 ---
 
 Key Information Memorandum (KIM) | HDFC Mutual Fund
+
 Fund Documents
 KIM
 SID

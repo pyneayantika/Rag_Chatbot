@@ -1,14 +1,15 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
-scrape_date: 20260416
+scrape_date: 20260429
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-large-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:b222fcde2f4ab19b394c86c896f5f1c0e4213a735f726d0d0c5813daa0a0df7a
+content_hash: sha256:64635d1ec6f244ba9072c58904739ffa356118229a2fb06021e6e665e7abdc2e
 word_count: 886
 ---
 
 HDFC Large Cap Fund Direct Growth - NAV, Portfolio and Performance | HDFC Mutual Funds
+
 HDFC 
 Large Cap Fund
 Equity
@@ -48,7 +49,7 @@ Disclaimer
 Including Additional Expenses and Goods and Service Tax on Management Fees, if any. 
 Click here
  to view the Total Expense Ratio
-0.97
+0.98
 Lock in
 A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
 

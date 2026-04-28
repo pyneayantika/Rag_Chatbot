@@ -1,14 +1,15 @@
 ---
 source_url: https://www.hdfcfund.com/investor-services/fund-documents/sid
-scrape_date: 20260416
+scrape_date: 20260429
 tier: tier_2_hdfc_amc
 scheme_name: fund-documents_sid
 domain: hdfcfund.com
-content_hash: sha256:9baff6629c9327d0a8933f7be1775faf9dc7cd35142ce971ef946f9d697957a9
+content_hash: sha256:f818f72cb09164ea7c46ed1d3af1f8901de82c71f7d88402be4d06233709d63f
 word_count: 92
 ---
 
 Scheme Information Document (SID) | HDFC Mutual Fund
+
 Fund Documents
 KIM
 SID
