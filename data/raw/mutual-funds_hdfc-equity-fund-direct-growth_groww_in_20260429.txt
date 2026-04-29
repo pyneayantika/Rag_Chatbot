@@ -4,7 +4,7 @@ scrape_date: 20260429
 tier: tier_1_groww
 scheme_name: mutual-funds_hdfc-equity-fund-direct-growth
 domain: groww.in
-content_hash: sha256:a4378226caede67cc2b80d616930eb41f25779756fbf4891c6a4272bdea859d1
+content_hash: sha256:33bcc6fe9334ed3ffdec86b322d5d18dda71f5ee0dadc345aa653d7564f5aca9
 word_count: 1755
 ---
 
@@ -78,7 +78,7 @@ Min. for SIP
 Fund size (AUM)
 ₹91,334.91 Cr
 Expense ratio
-0.97%
+0.99%
 Rating
 5
 Return calculator
@@ -87,14 +87,14 @@ One time
 Monthly investment
 ₹100
 Over the past Total investment Would've become Historic returns Returns
-1 year ₹1,200 ₹1,191 
- -0.75%
-3 years ₹3,600 ₹4,229 
- +17.47%
-5 years ₹6,000 ₹8,986 
- +49.77%
-10 years ₹12,000 ₹29,899 
- +149.16%
+1 year ₹1,200 ₹1,182 
+ -1.50%
+3 years ₹3,600 ₹4,193 
+ +16.47%
+5 years ₹6,000 ₹8,907 
+ +48.45%
+10 years ₹12,000 ₹29,631 
+ +146.92%
 Holdings (64)
 Name Sector Instruments Assets
 ICICI Bank Ltd. Financial Equity 8.82%
@@ -121,7 +121,7 @@ Absolute returns
 Name 3Y 5Y 10Y All
 Fund returns +19.8% +20.2% +17.1% +16.0%
 Category average (Equity Flexi Cap) +16.0% +15.6% +13.5% --
-Rank (Equity Flexi Cap) 8 3 2 --
+Rank (Equity Flexi Cap) 9 3 2 --
 Exit load, stamp duty and tax
 Exit load
 Exit load of 1% if redeemed within 1 year
@@ -276,11 +276,11 @@ How much expense ratio is charged by HDFC Flexi Cap Direct Plan Growth?
 
 The term Expense Ratio used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.97% as of 28 Apr 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.99% as of 29 Apr 2026...
 
 What is the AUM of HDFC Flexi Cap Direct Plan Growth?
 
-The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹91,334.91Cr as of 28 Apr 2026.
+The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹91,334.91Cr as of 29 Apr 2026.
 
 How to Redeem HDFC Flexi Cap Direct Plan Growth?
 
