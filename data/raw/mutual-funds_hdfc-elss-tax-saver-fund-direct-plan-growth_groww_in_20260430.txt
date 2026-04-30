@@ -1,11 +1,11 @@
 ---
-source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
-scrape_date: 20260429
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+scrape_date: 20260430
 tier: tier_1_groww
-scheme_name: mutual-funds_hdfc-equity-fund-direct-growth
+scheme_name: mutual-funds_hdfc-elss-tax-saver-fund-direct-plan-growth
 domain: groww.in
-content_hash: sha256:33bcc6fe9334ed3ffdec86b322d5d18dda71f5ee0dadc345aa653d7564f5aca9
-word_count: 1755
+content_hash: sha256:28d241e81e514bd05a20300128ac6a09a2d2198af347129181a66d515e28bb91
+word_count: 1804
 ---
 
 Stocks
@@ -15,9 +15,10 @@ More
 Search Groww....
 Ctrl+K
 Login/Sign up
-HDFC Flexi Cap Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+ELSS • 3Y Lock-in
 Equity
-Flexi Cap
+ELSS
 Very High Risk
 +
 0
@@ -63,7 +64,7 @@ Very High Risk
 9
 %
 3Y annualised
--0.86%
++0.35%
 1D
 1M
 6M
@@ -71,60 +72,60 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 28 Apr '26
-₹2,146.72
+NAV: 29 Apr '26
+₹1,457.79
 Min. for SIP
-₹100
+₹500
 Fund size (AUM)
-₹91,334.91 Cr
+₹14,615.19 Cr
 Expense ratio
-0.99%
+1.11%
 Rating
 5
 Return calculator
 Monthly SIP
 One time
 Monthly investment
-₹100
+₹500
 Over the past Total investment Would've become Historic returns Returns
-1 year ₹1,200 ₹1,182 
- -1.50%
-3 years ₹3,600 ₹4,193 
- +16.47%
-5 years ₹6,000 ₹8,907 
- +48.45%
-10 years ₹12,000 ₹29,631 
- +146.92%
-Holdings (64)
+1 year ₹6,000 ₹5,796 
+ -3.40%
+3 years ₹18,000 ₹20,226 
+ +12.37%
+5 years ₹30,000 ₹42,460 
+ +41.53%
+10 years ₹60,000 ₹1,30,166 
+ +116.94%
+Holdings (56)
 Name Sector Instruments Assets
-ICICI Bank Ltd. Financial Equity 8.82%
-HDFC Bank Ltd. Financial Equity 7.04%
-Axis Bank Ltd. Financial Equity 6.87%
-State Bank of India Financial Equity 4.75%
-SBI Life Insurance Company Ltd. Insurance Equity 3.89%
-Kotak Mahindra Bank Ltd. Financial Equity 3.52%
-Bharti Airtel Ltd. Communication Equity 3.19%
-HCL Technologies Ltd. Technology Equity 3.12%
-Larsen & Toubro Ltd. Construction Equity 3.09%
-Power Grid Corporation Of India Ltd. Energy Equity 2.95%
+ICICI Bank Ltd. Financial Equity 9.08%
+HDFC Bank Ltd. Financial Equity 8.31%
+Axis Bank Ltd. Financial Equity 7.04%
+SBI Life Insurance Company Ltd. Insurance Equity 4.88%
+State Bank of India Financial Equity 4.69%
+Maruti Suzuki India Ltd. Automobile Equity 4.63%
+Bharti Airtel Ltd. Communication Equity 4.62%
+Kotak Mahindra Bank Ltd. Financial Equity 4.23%
+HCL Technologies Ltd. Technology Equity 3.28%
+Reliance Industries Ltd. Energy Equity 3.06%
 See All
 Minimum investments
 Min. for 1st investment
-₹100
+₹500
 Min. for 2nd investment
-₹100
+₹500
 Min. for SIP
-₹100
+₹500
 Returns and rankings
 Annualised returns
 Absolute returns
 Name 3Y 5Y 10Y All
-Fund returns +19.8% +20.2% +17.1% +16.0%
-Category average (Equity Flexi Cap) +16.0% +15.6% +13.5% --
-Rank (Equity Flexi Cap) 9 3 2 --
+Fund returns +18.4% +18.6% +14.8% +14.3%
+Category average (Equity ELSS) +16.4% +16.5% +14.0% --
+Rank (Equity ELSS) 12 4 12 --
 Exit load, stamp duty and tax
 Exit load
-Exit load of 1% if redeemed within 1 year
+Nil
 Stamp duty on investment: 0.005% (from July 1st, 2020)
 from July 1st 2020
 Tax implication
@@ -134,38 +135,38 @@ Compare similar funds
  Name 1Y 3Y Fund Size(Cr)
 
  
-ITI Flexi Cap Fund Direct Growth
- +10.08% +21.78% 1,133.99
+Motilal Oswal ELSS Tax Saver Fund Direct Growth
+ +16.15% +26.77% 3,968.68
 
  
-Invesco India Flexi Cap Fund Direct Growth
- +3.87% +20.75% 4,202.43
+SBI ELSS Tax Saver Fund Direct Growth
+ +3.23% +21.75% 28,441.43
 
  
-HDFC Flexi Cap Direct Plan Growth
- +2.41% +19.77% 91,334.91
+WhiteOak Capital ELSS Tax Saver Fund Direct Growth
+ +4.85% +20.76% 402.93
 
  
-Parag Parikh Flexi Cap Fund Direct Growth
- +4.27% +18.13% 1,28,966.48
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+ -0.70% +18.35% 14,615.19
 
  
-Franklin India Flexi Cap Fund Direct Growth
- +0.37% +17.25% 17,535.63
+Parag Parikh ELSS Tax Saver Fund Direct Growth
+ -2.37% +14.08% 5,260.64
 
 Compare
 Fund management
-AG
-Amit Ganatra
-Jan 2026 - Present
+AK
+Amar Kalkundrikar
+Dec 2025 - Present
 View details
 Education
-Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
+Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.
 Experience
-Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
+Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.
 Also manages these schemes
-HDFC Focused Fund Direct Growth
-HDFC Flexi Cap Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Multi Cap Fund Direct Growth
 DM
 Dhruv Muchhal
 Jun 2023 - Present
@@ -222,11 +223,11 @@ HDFC Short Term Debt Fund Direct Plan Growth
 HDFC Manufacturing Fund Direct Growth
 HDFC Defence Fund Direct Growth
 HDFC Multi Asset Allocation Fund Direct Growth
-About HDFC Flexi Cap Direct Plan Growth
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amit Ganatra is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 28 Apr 2026 is ₹2,146.72. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+About HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 29 Apr 2026 is ₹1,457.79. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
 ...Read more
 Investment Objective
-The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
+The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
 Fund benchmark
 NIFTY 500 Total Return Index
 Scheme Information Document(SID)
@@ -258,45 +259,49 @@ Website
 www.camsonline.com
 Address
 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
-FAQs
-How to Invest in HDFC Flexi Cap Direct Plan Growth?
+Other plans in the same fund
+Name
 
-You can easily invest in HDFC Flexi Cap Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
+HDFC ELSS Tax Saver Fund Direct Plan IDCW
+FAQs
+How to Invest in HDFC ELSS Tax Saver Fund Direct Plan Growth?
+
+You can easily invest in HDFC ELSS Tax Saver Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
 
 Log on to your Groww account
-Search for HDFC Flexi Cap Direct Plan Growth from the search box
+Search for HDFC ELSS Tax Saver Fund Direct Plan Growth from the search box
 In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete
-Once you are done with that, you can start investing in HDFC Flexi Cap Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance
+Once you are done with that, you can start investing in HDFC ELSS Tax Saver Fund Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance
 
-What kind of returns does HDFC Flexi Cap Direct Plan Growth provide?
+What kind of returns does HDFC ELSS Tax Saver Fund Direct Plan Growth provide?
 
-The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 2.41% since its inception.
+The HDFC ELSS Tax Saver Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is -0.70% since its inception.
 
-How much expense ratio is charged by HDFC Flexi Cap Direct Plan Growth?
+How much expense ratio is charged by HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-The term Expense Ratio used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
+The term Expense Ratio used for HDFC ELSS Tax Saver Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.99% as of 29 Apr 2026...
+The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 1.11% as of 30 Apr 2026...
 
-What is the AUM of HDFC Flexi Cap Direct Plan Growth?
+What is the AUM of HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹91,334.91Cr as of 29 Apr 2026.
+The AUM, short for Assets Under Management of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹14,615.19Cr as of 30 Apr 2026.
 
-How to Redeem HDFC Flexi Cap Direct Plan Growth?
+How to Redeem HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-If you want to sell your HDFC Flexi Cap Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
+If you want to sell your HDFC ELSS Tax Saver Fund Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-Can I invest in SIP and Lump Sum of HDFC Flexi Cap Direct Plan Growth?
+Can I invest in SIP and Lump Sum of HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-You can select either SIP or Lumpsum investment of HDFC Flexi Cap Direct Plan Growth based on your investment objective and risk tolerance.
+You can select either SIP or Lumpsum investment of HDFC ELSS Tax Saver Fund Direct Plan Growth based on your investment objective and risk tolerance.
 
-What is the NAV of HDFC Flexi Cap Direct Plan Growth?
+What is the NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-The NAV of HDFC Flexi Cap Direct Plan Growth is ₹2,146.72 as of 28 Apr 2026.
+The NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹1,457.79 as of 29 Apr 2026.
 
-What is the PE and PB ratio of HDFC Flexi Cap Direct Plan Growth?
+What is the PE and PB ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-The PE ratio ratio of HDFC Flexi Cap Direct Plan Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
+The PE ratio ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
 
 Looking to invest in mutual funds?
 Explore diversified funds designed for every investor
@@ -307,7 +312,7 @@ Mutual Funds
 >
 HDFC Mutual Fund
 >
-HDFC Flexi Cap Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
 Vaishnavi Tech Park, South Tower, 3rd Floor
 Sarjapur Main Road, Bellandur, Bengaluru – 560103
 Karnataka

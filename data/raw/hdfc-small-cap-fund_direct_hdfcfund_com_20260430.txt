@@ -1,10 +1,10 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
-scrape_date: 20260429
+scrape_date: 20260430
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-small-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:20f4fe620275b486da944edb06563dc1c01f580a28b3b5ccc40c6e2adae66d75
+content_hash: sha256:6a505277d02363ae934ba45e542aae754f795ba494274e5c1a8d5f337cf24e83
 word_count: 1165
 ---
 
@@ -80,7 +80,7 @@ Disclaimer
 Including Additional Expenses and Goods and Service Tax on Management Fees, if any. 
 Click here
  to view the Total Expense Ratio
-0.81
+0.74
 Lock in
 A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
 

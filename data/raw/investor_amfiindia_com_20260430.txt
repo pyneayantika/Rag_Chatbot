@@ -1,6 +1,6 @@
 ---
 source_url: https://www.amfiindia.com/investor
-scrape_date: 20260429
+scrape_date: 20260430
 tier: tier_3_amfi
 scheme_name: investor
 domain: amfiindia.com
