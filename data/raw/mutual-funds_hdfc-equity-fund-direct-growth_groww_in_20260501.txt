@@ -1,10 +1,10 @@
 ---
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
-scrape_date: 20260430
+scrape_date: 20260501
 tier: tier_1_groww
 scheme_name: mutual-funds_hdfc-equity-fund-direct-growth
 domain: groww.in
-content_hash: sha256:d2f424ddf78ca764a7d29401d357d2a9b7b7eaf717f83c7a33a34c222a12695b
+content_hash: sha256:68ef39eb225ba9fe11dce897e940aa8db8b1238dccfa11238e52618450a2f463
 word_count: 1755
 ---
 
@@ -63,7 +63,7 @@ Very High Risk
 9
 %
 3Y annualised
-+0.25%
+-0.70%
 1D
 1M
 6M
@@ -71,8 +71,8 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 29 Apr '26
-₹2,152.11
+NAV: 30 Apr '26
+₹2,137.00
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -87,14 +87,14 @@ One time
 Monthly investment
 ₹100
 Over the past Total investment Would've become Historic returns Returns
-1 year ₹1,200 ₹1,185 
- -1.25%
-3 years ₹3,600 ₹4,202 
- +16.72%
-5 years ₹6,000 ₹8,925 
- +48.75%
-10 years ₹12,000 ₹29,692 
- +147.43%
+1 year ₹1,200 ₹1,178 
+ -1.83%
+3 years ₹3,600 ₹4,173 
+ +15.92%
+5 years ₹6,000 ₹8,861 
+ +47.68%
+10 years ₹12,000 ₹29,473 
+ +145.61%
 Holdings (64)
 Name Sector Instruments Assets
 ICICI Bank Ltd. Financial Equity 8.82%
@@ -119,9 +119,9 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Name 3Y 5Y 10Y All
-Fund returns +19.9% +20.4% +17.2% +16.0%
+Fund returns +19.6% +20.3% +17.1% +16.0%
 Category average (Equity Flexi Cap) +16.0% +15.6% +13.5% --
-Rank (Equity Flexi Cap) 10 4 3 --
+Rank (Equity Flexi Cap) 9 4 2 --
 Exit load, stamp duty and tax
 Exit load
 Exit load of 1% if redeemed within 1 year
@@ -135,37 +135,26 @@ Compare similar funds
 
  
 ITI Flexi Cap Fund Direct Growth
- +10.93% +22.04% 1,133.99
+ +11.63% +21.88% 1,133.99
 
  
 Invesco India Flexi Cap Fund Direct Growth
- +3.48% +20.75% 4,202.43
+ +3.11% +20.37% 4,202.43
 
  
 HDFC Flexi Cap Direct Plan Growth
- +2.85% +19.85% 91,334.91
+ +1.90% +19.55% 91,334.91
 
  
 Parag Parikh Flexi Cap Fund Direct Growth
- +3.32% +17.44% 1,28,966.48
+ +4.57% +17.71% 1,28,966.48
 
  
 Franklin India Flexi Cap Fund Direct Growth
- +0.43% +17.29% 17,535.63
+ -0.61% +16.92% 17,535.63
 
 Compare
 Fund management
-AG
-Amit Ganatra
-Jan 2026 - Present
-View details
-Education
-Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
-Experience
-Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
-Also manages these schemes
-HDFC Focused Fund Direct Growth
-HDFC Flexi Cap Direct Plan Growth
 DM
 Dhruv Muchhal
 Jun 2023 - Present
@@ -175,55 +164,66 @@ Mr. Dhruv has done B.Com, CA and CFA
 Experience
 Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
 Also manages these schemes
-HDFC Consumption Fund Direct Growth
-HDFC Medium Term Debt Fund Direct Growth
-HDFC Dynamic Debt Fund Direct Plan Growth
-HDFC Ultra Short Term Fund Direct Growth
-HDFC Income Fund Direct Growth
-HDFC Hybrid Equity Fund Direct Plan Growth
-HDFC ELSS Tax Saver Fund Direct Plan Growth
-HDFC Children's Fund Direct Plan
-HDFC Diversified Equity All Cap Active FoF Direct Growth
-HDFC Innovation Fund Direct Growth
-HDFC Business Cycle Fund Direct Growth
-HDFC MNC Fund Direct Growth
-HDFC Transportation and Logistics Fund Direct Growth
-HDFC Liquid Direct Plan Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Banking & Financial Services Fund Direct Growth
-HDFC Money Market Fund Direct Growth
-HDFC Equity Savings Direct Plan Growth
-HDFC Focused Fund Direct Growth
-HDFC Technology Fund Direct Growth
-HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Flexi Cap Direct Plan Growth
+HDFC Arbitrage Direct Plan Growth
 HDFC Value Fund Direct Plan Growth
 HDFC Low Duration Fund Direct Growth
-HDFC Hybrid Debt Fund Direct Growth
-HDFC Overnight Fund Direct Growth
-HDFC Pharma And Healthcare Fund Direct Growth
-HDFC Credit Risk Debt Fund Direct Growth
-HDFC Arbitrage Direct Plan Growth
-HDFC Small Cap Fund Direct Growth
-HDFC Multi Cap Fund Direct Growth
-HDFC Long Duration Debt Fund Direct Growth
-HDFC Mid Cap Fund Direct Growth
-HDFC Corporate Bond Fund Direct Plan Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Housing Opportunities Fund Direct Growth
-HDFC Infrastructure Fund Direct Growth
-HDFC Large and Mid Cap Fund Direct Growth
-HDFC Balanced Advantage Fund Direct Growth
-HDFC Flexi Cap Direct Plan Growth
-HDFC Arbitrage Fund Wholesale Direct Growth
-HDFC Large Cap Fund Direct Growth
+HDFC Focused Fund Direct Growth
 HDFC Floating Rate Debt Fund Direct Plan Growth
-HDFC Short Term Debt Fund Direct Plan Growth
-HDFC Manufacturing Fund Direct Growth
-HDFC Defence Fund Direct Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Debt Fund Direct Plan Growth
+HDFC Medium Term Debt Fund Direct Growth
+HDFC Income Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Hybrid Debt Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Hybrid Equity Fund Direct Plan Growth
+HDFC Short Term Debt Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Debt Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Wholesale Direct Growth
+HDFC Large and Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Retirement Savings Fund Equity Plan Direct Growth
+HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Duration Debt Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+HDFC Diversified Equity All Cap Active FoF Direct Growth
+AG
+Amit Ganatra
+Jan 2026 - Present
+View details
+Education
+Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
+Experience
+Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Focused Fund Direct Growth
 About HDFC Flexi Cap Direct Plan Growth
-HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amit Ganatra is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 29 Apr 2026 is ₹2,152.11. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 30 Apr 2026 is ₹2,137.00. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
 The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
@@ -270,17 +270,17 @@ Once you are done with that, you can start investing in HDFC Flexi Cap Direct Pl
 
 What kind of returns does HDFC Flexi Cap Direct Plan Growth provide?
 
-The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 2.85% since its inception.
+The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 1.90% since its inception.
 
 How much expense ratio is charged by HDFC Flexi Cap Direct Plan Growth?
 
 The term Expense Ratio used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.67% as of 30 Apr 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.67% as of 01 May 2026...
 
 What is the AUM of HDFC Flexi Cap Direct Plan Growth?
 
-The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹91,334.91Cr as of 30 Apr 2026.
+The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹91,334.91Cr as of 01 May 2026.
 
 How to Redeem HDFC Flexi Cap Direct Plan Growth?
 
@@ -292,7 +292,7 @@ You can select either SIP or Lumpsum investment of HDFC Flexi Cap Direct Plan Gr
 
 What is the NAV of HDFC Flexi Cap Direct Plan Growth?
 
-The NAV of HDFC Flexi Cap Direct Plan Growth is ₹2,152.11 as of 29 Apr 2026.
+The NAV of HDFC Flexi Cap Direct Plan Growth is ₹2,137.00 as of 30 Apr 2026.
 
 What is the PE and PB ratio of HDFC Flexi Cap Direct Plan Growth?
 
@@ -340,7 +340,7 @@ Demat Account
 Groww AMC
 PMS
 © 2016-2026 Groww. All rights reserved.
-Version: 7.5.7
+Version: 7.5.8
 Share Market
 Indices
 F&O

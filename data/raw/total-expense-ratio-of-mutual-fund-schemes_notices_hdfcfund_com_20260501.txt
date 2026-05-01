@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/statutory-disclosure/total-expense-ratio-of-mutual-fund-schemes/notices
-scrape_date: 20260430
+scrape_date: 20260501
 tier: tier_2_hdfc_amc
 scheme_name: total-expense-ratio-of-mutual-fund-schemes_notices
 domain: hdfcfund.com
-content_hash: sha256:d0b069d1983545f78ae7d072205f43479797ad678e29d6c494907deadafd48df
-word_count: 475
+content_hash: sha256:3c239ca96122d0dbf2706fc3e13e46cbb769a126f621147bbeb5afdc06198a04
+word_count: 655
 ---
 
 Total Expense Ratio of Mutual Fund Schemes - HDFC Mutual Fund
@@ -15,6 +15,22 @@ Total Expense Ratio of Mutual Fund Schemes
 Notices
 Select year
 View by fiscal year
+HDFC Floating Rate Debt Fund Notice for Expense change 30-04-2026 WP WEF 07-05-2026.pdf
+Consolidated Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+HDFC Overnight Fund Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+HDFC Money Market Fund Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+HDFC Low Duration Fund Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+HDFC Liquid Fund Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+HDFC Income Fund Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+HDFC Gilt Fund Notice for Expense change 30-04-2026 RP WEF 07-05-2026_0.pdf
+Consolidated Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Overnight Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Money Market Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Low Duration Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Liquid Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Income Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Gilt Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
+HDFC Floating Rate Debt Fund Notice for Expense change 30-04-2026 DP WEF 07-05-2026_0.pdf
 HDFC NIFTY 1D RATE LIQUID ETF Notice for Expense change 08-04-2026 RP WEF 16-04-2026.pdf
 HDFC Arbitrage Fund Notice for Expense change 07-04-2026 RP WEF 16-04-2026.pdf
 HDFC Value Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf

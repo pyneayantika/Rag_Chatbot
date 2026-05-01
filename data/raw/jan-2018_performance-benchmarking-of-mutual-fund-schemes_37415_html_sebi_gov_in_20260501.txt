@@ -1,16 +1,14 @@
 ---
 source_url: https://www.sebi.gov.in/legal/circulars/jan-2018/performance-benchmarking-of-mutual-fund-schemes_37415.html
-scrape_date: 20260430
+scrape_date: 20260501
 tier: tier_4_sebi
 scheme_name: jan-2018_performance-benchmarking-of-mutual-fund-schemes_37415.html
 domain: sebi.gov.in
-content_hash: sha256:6865cad674d271457e9914920efc159b5d316d0dacf169d9f4b3338962edcf8c
-word_count: 432
+content_hash: sha256:e55265edb38cb5f99d0c65d9ef1d7880ca816dc7fcb93e7533873f73bcc43a58
+word_count: 431
 ---
 
-NEW 
-INVESTOR WEBSITE 
-हिन्दी
+SEBI Check
 (A)+
 (A)
 (A)-
@@ -18,7 +16,8 @@ Skip to main content
 A
 A
 
-SEBI Check
+NEW 
+INVESTOR WEBSITE 
 ABOUT
  
 LEGAL
