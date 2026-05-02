@@ -1,6 +1,6 @@
 ---
 source_url: https://www.hdfcfund.com/investor-services/fund-documents/kim
-scrape_date: 20260501
+scrape_date: 20260502
 tier: tier_2_hdfc_amc
 scheme_name: fund-documents_kim
 domain: hdfcfund.com

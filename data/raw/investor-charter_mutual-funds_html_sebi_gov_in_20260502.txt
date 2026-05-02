@@ -1,6 +1,6 @@
 ---
 source_url: https://www.sebi.gov.in/investors/investor-charter/mutual-funds.html
-scrape_date: 20260501
+scrape_date: 20260502
 tier: tier_4_sebi
 scheme_name: investor-charter_mutual-funds.html
 domain: sebi.gov.in
