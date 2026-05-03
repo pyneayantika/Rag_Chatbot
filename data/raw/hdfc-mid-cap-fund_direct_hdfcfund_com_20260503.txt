@@ -1,6 +1,6 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-mid-cap-fund/direct
-scrape_date: 20260502
+scrape_date: 20260503
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-mid-cap-fund_direct
 domain: hdfcfund.com
