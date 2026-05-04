@@ -1,11 +1,11 @@
 ---
-source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
-scrape_date: 20260503
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+scrape_date: 20260504
 tier: tier_1_groww
-scheme_name: mutual-funds_hdfc-elss-tax-saver-fund-direct-plan-growth
+scheme_name: mutual-funds_hdfc-large-cap-fund-direct-growth
 domain: groww.in
-content_hash: sha256:f0496329955aeaead4a2983d20ef46bc95d44a5ca59a8d53af1355972202d9ca
-word_count: 1801
+content_hash: sha256:ba572f0acfef7eacdacca26ce004b0f8dd536c6e52a559db2fe9273791697fa0
+word_count: 1763
 ---
 
 Stocks
@@ -15,10 +15,9 @@ More
 Search Groww....
 Ctrl+K
 Login/Sign up
-HDFC ELSS Tax Saver Fund Direct Plan Growth
-ELSS • 3Y Lock-in
+HDFC Large Cap Fund Direct Growth
 Equity
-ELSS
+Large Cap
 Very High Risk
 +
 0
@@ -64,7 +63,7 @@ Very High Risk
 9
 %
 3Y annualised
--0.66%
+-0.67%
 1D
 1M
 6M
@@ -73,59 +72,59 @@ Very High Risk
 5Y
 All
 NAV: 30 Apr '26
-₹1,448.24
+₹1,186.28
 Min. for SIP
-₹500
+₹100
 Fund size (AUM)
-₹14,615.19 Cr
+₹35,458.50 Cr
 Expense ratio
-1.11%
+1.04%
 Rating
-5
+4
 Return calculator
 Monthly SIP
 One time
 Monthly investment
-₹500
+₹100
 Over the past Total investment Would've become Historic returns Returns
-1 year ₹6,000 ₹5,765 
- -3.92%
-3 years ₹18,000 ₹20,096 
- +11.64%
-5 years ₹30,000 ₹42,175 
- +40.58%
-10 years ₹60,000 ₹1,29,276 
- +115.46%
-Holdings (56)
+1 year ₹1,200 ₹1,166 
+ -2.83%
+3 years ₹3,600 ₹3,847 
+ +6.86%
+5 years ₹6,000 ₹7,706 
+ +28.43%
+10 years ₹12,000 ₹23,359 
+ +94.66%
+Holdings (46)
 Name Sector Instruments Assets
-ICICI Bank Ltd. Financial Equity 9.08%
-HDFC Bank Ltd. Financial Equity 8.31%
-Axis Bank Ltd. Financial Equity 7.04%
-SBI Life Insurance Company Ltd. Insurance Equity 4.88%
-State Bank of India Financial Equity 4.69%
-Maruti Suzuki India Ltd. Automobile Equity 4.63%
-Bharti Airtel Ltd. Communication Equity 4.62%
-Kotak Mahindra Bank Ltd. Financial Equity 4.23%
-HCL Technologies Ltd. Technology Equity 3.28%
-Reliance Industries Ltd. Energy Equity 3.06%
+ICICI Bank Ltd. Financial Equity 9.39%
+HDFC Bank Ltd. Financial Equity 8.00%
+Bharti Airtel Ltd. Communication Equity 5.99%
+Reliance Industries Ltd. Energy Equity 5.40%
+Kotak Mahindra Bank Ltd. Financial Equity 5.13%
+Titan Company Ltd. Consumer Discretionary Equity 4.59%
+Infosys Ltd. Technology Equity 3.99%
+Torrent Pharmaceuticals Ltd. Healthcare Equity 3.79%
+Axis Bank Ltd. Financial Equity 3.51%
+Bajaj Auto Ltd. Automobile Equity 3.09%
 See All
 Minimum investments
 Min. for 1st investment
-₹500
+₹100
 Min. for 2nd investment
-₹500
+₹100
 Min. for SIP
-₹500
+₹100
 Returns and rankings
 Annualised returns
 Absolute returns
 Name 3Y 5Y 10Y All
-Fund returns +18.1% +18.7% +14.7% +14.2%
-Category average (Equity ELSS) +16.4% +16.5% +14.0% --
-Rank (Equity ELSS) 10 4 12 --
+Fund returns +13.2% +14.5% +13.8% +13.1%
+Category average (Equity Large Cap) +15.1% +15.0% +13.2% --
+Rank (Equity Large Cap) 47 15 12 --
 Exit load, stamp duty and tax
 Exit load
-Nil
+Exit load of 1% if redeemed within 1 year
 Stamp duty on investment: 0.005% (from July 1st, 2020)
 from July 1st 2020
 Tax implication
@@ -135,38 +134,40 @@ Compare similar funds
  Name 1Y 3Y Fund Size(Cr)
 
  
-Motilal Oswal ELSS Tax Saver Fund Direct Growth
- +16.87% +26.32% 3,968.68
+Nippon India Large Cap Fund Direct Growth
+ +3.90% +17.15% 46,520.53
 
  
-SBI ELSS Tax Saver Fund Direct Growth
- +2.86% +21.45% 28,441.43
+Invesco India Largecap Fund Direct Growth
+ +3.46% +17.10% 1,536.87
 
  
-WhiteOak Capital ELSS Tax Saver Fund Direct Growth
- +4.42% +20.44% 402.93
+WhiteOak Capital Large Cap Fund Direct Growth
+ +2.91% +16.92% 1,045.06
 
  
-HDFC ELSS Tax Saver Fund Direct Plan Growth
- -1.52% +18.08% 14,615.19
+DSP Large Cap Fund Direct Growth
+ -1.48% +16.09% 6,619.60
 
  
-Parag Parikh ELSS Tax Saver Fund Direct Growth
- -2.50% +13.96% 5,260.64
+ICICI Prudential Large Cap Fund Direct Growth
+ +0.62% +15.91% 69,947.55
 
 Compare
 Fund management
-AK
-Amar Kalkundrikar
-Dec 2025 - Present
+RB
+Rahul Baijal
+Jul 2022 - Present
 View details
 Education
-Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.
+Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering
 Experience
-Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.
+Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.
 Also manages these schemes
-HDFC ELSS Tax Saver Fund Direct Plan Growth
-HDFC Multi Cap Fund Direct Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
 DM
 Dhruv Muchhal
 Jun 2023 - Present
@@ -223,13 +224,13 @@ HDFC Manufacturing Fund Direct Growth
 HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 HDFC Diversified Equity All Cap Active FoF Direct Growth
-About HDFC ELSS Tax Saver Fund Direct Plan Growth
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 30 Apr 2026 is ₹1,448.24. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500.
+About HDFC Large Cap Fund Direct Growth
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 30 Apr 2026 is ₹1,186.28. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
-The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
 Fund benchmark
-NIFTY 500 Total Return Index
+NIFTY 100 Total Return Index
 Scheme Information Document(SID)
 Fund house
 HDFC Mutual Fund
@@ -250,7 +251,7 @@ Launch Date
 Address
 "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
 Custodian
-Deutsche Bank
+HDFC Bank
 Registrar & Transfer Agent
 Cams
 Email
@@ -262,46 +263,46 @@ Address
 Other plans in the same fund
 Name
 
-HDFC ELSS Tax Saver Fund Direct Plan IDCW
+HDFC Large Cap Fund Direct IDCW
 FAQs
-How to Invest in HDFC ELSS Tax Saver Fund Direct Plan Growth?
+How to Invest in HDFC Large Cap Fund Direct Growth?
 
-You can easily invest in HDFC ELSS Tax Saver Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
+You can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
 
 Log on to your Groww account
-Search for HDFC ELSS Tax Saver Fund Direct Plan Growth from the search box
+Search for HDFC Large Cap Fund Direct Growth from the search box
 In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete
-Once you are done with that, you can start investing in HDFC ELSS Tax Saver Fund Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance
+Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance
 
-What kind of returns does HDFC ELSS Tax Saver Fund Direct Plan Growth provide?
+What kind of returns does HDFC Large Cap Fund Direct Growth provide?
 
-The HDFC ELSS Tax Saver Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is -1.52% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is -1.00% since its inception.
 
-How much expense ratio is charged by HDFC ELSS Tax Saver Fund Direct Plan Growth?
+How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?
 
-The term Expense Ratio used for HDFC ELSS Tax Saver Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
+The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 1.11% as of 03 May 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.04% as of 04 May 2026...
 
-What is the AUM of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+What is the AUM of HDFC Large Cap Fund Direct Growth?
 
-The AUM, short for Assets Under Management of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹14,615.19Cr as of 03 May 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹35,458.50Cr as of 04 May 2026.
 
-How to Redeem HDFC ELSS Tax Saver Fund Direct Plan Growth?
+How to Redeem HDFC Large Cap Fund Direct Growth?
 
-If you want to sell your HDFC ELSS Tax Saver Fund Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
+If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-Can I invest in SIP and Lump Sum of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+Can I invest in SIP and Lump Sum of HDFC Large Cap Fund Direct Growth?
 
-You can select either SIP or Lumpsum investment of HDFC ELSS Tax Saver Fund Direct Plan Growth based on your investment objective and risk tolerance.
+You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on your investment objective and risk tolerance.
 
-What is the NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+What is the NAV of HDFC Large Cap Fund Direct Growth?
 
-The NAV of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹1,448.24 as of 30 Apr 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,186.28 as of 30 Apr 2026.
 
-What is the PE and PB ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth?
+What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 
-The PE ratio ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
+The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
 
 Looking to invest in mutual funds?
 Explore diversified funds designed for every investor
@@ -312,7 +313,7 @@ Mutual Funds
 >
 HDFC Mutual Fund
 >
-HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
 Vaishnavi Tech Park, South Tower, 3rd Floor
 Sarjapur Main Road, Bellandur, Bengaluru – 560103
 Karnataka

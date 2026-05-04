@@ -1,10 +1,10 @@
 ---
 source_url: https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth
-scrape_date: 20260503
+scrape_date: 20260504
 tier: tier_1_groww
 scheme_name: mutual-funds_hdfc-mid-cap-opportunities-fund-direct-growth
 domain: groww.in
-content_hash: sha256:9c10420c99482c690440864887e8b05073a449257c2468b817ddd248332efbfe
+content_hash: sha256:e5234c916e8bc3b7f5436a19ef5326616d515124ae222d1f030fff29ce9afc1e
 word_count: 1748
 ---
 
@@ -281,11 +281,11 @@ How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?
 
 The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.73% as of 03 May 2026...
+The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.73% as of 04 May 2026...
 
 What is the AUM of HDFC Mid Cap Fund Direct Growth?
 
-The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹85,357.92Cr as of 03 May 2026.
+The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹85,357.92Cr as of 04 May 2026.
 
 How to Redeem HDFC Mid Cap Fund Direct Growth?
 

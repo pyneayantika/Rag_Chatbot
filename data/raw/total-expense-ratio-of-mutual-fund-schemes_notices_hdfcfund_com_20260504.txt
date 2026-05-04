@@ -1,6 +1,6 @@
 ---
 source_url: https://www.hdfcfund.com/statutory-disclosure/total-expense-ratio-of-mutual-fund-schemes/notices
-scrape_date: 20260503
+scrape_date: 20260504
 tier: tier_2_hdfc_amc
 scheme_name: total-expense-ratio-of-mutual-fund-schemes_notices
 domain: hdfcfund.com
