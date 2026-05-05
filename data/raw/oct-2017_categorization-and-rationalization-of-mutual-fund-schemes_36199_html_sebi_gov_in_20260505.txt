@@ -1,14 +1,16 @@
 ---
-source_url: https://www.sebi.gov.in/investors/investor-charter/mutual-funds.html
-scrape_date: 20260504
+source_url: https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-mutual-fund-schemes_36199.html
+scrape_date: 20260505
 tier: tier_4_sebi
-scheme_name: investor-charter_mutual-funds.html
+scheme_name: oct-2017_categorization-and-rationalization-of-mutual-fund-schemes_36199.html
 domain: sebi.gov.in
-content_hash: sha256:e55265edb38cb5f99d0c65d9ef1d7880ca816dc7fcb93e7533873f73bcc43a58
-word_count: 431
+content_hash: sha256:e1b1f010a3af186627aca4cdc6d7b88368293127e5c0871a2c813f754b3e7161
+word_count: 468
 ---
 
-SEBI Check
+NEW 
+INVESTOR WEBSITE 
+हिन्दी
 (A)+
 (A)
 (A)-
@@ -16,8 +18,7 @@ Skip to main content
 A
 A
 
-NEW 
-INVESTOR WEBSITE 
+SEBI Check
 ABOUT
  
 LEGAL
@@ -34,9 +35,29 @@ MEDIA & NOTIFICATIONS
  
 VIGILANCE
 Request for Proposal for sale of PACL properties in Maharashtra ::: SEBI Helpline for Investors ::: Request for Proposal for sale of PACL properties in Uttarakhand,Odisha,Chandigarh and Andhra Pradesh ::: Request for proposal for Sale of Properties in Haryana,odisha and Delhi ::: Explanatory video on Inter-Operable Regulatory Sandbox (IoRS) ::: MITRA - Gateway to unclaimed Mutual Funds ::: Request for Proposal for sale of PACL properties in Uttar Pradesh and Haryana ::: Launch of 'India Market Access' Website for Foreign Portfolio Investors (FPIs) ::: Request for proposals for sale of properties of PACL in Haryana, Uttar Pradesh and Karnataka ::: FAQs on Inter-Operable Regulatory Sandbox (IoRS) ::: SEBI Arth Yatra Contest 2025 ::: Request for proposals for sale of properties of PACL in Haryana, Andhra Pradesh, Karnataka and Kerala ::: 6th National Online Quiz on Insolvency and Bankruptcy Code, 2016 ::: Securities Market Hackathon launched @ GFF 2025 ::: PUBLIC NOTICE IN THE MATTER OF CITRUS CHECK INNS LIMITED AND ROYAL TWINKLE STAR CLUB PVT. LTD FOR REFUND ::: Settlement Scheme for Association with Algo Platforms, 2025 ::: Frequently Asked Questions (FAQs) on Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI REs and Framework for Adoption of Cloud Services by SEBI REs ::: Caution to public against buying / dealing with assets of Sai Prasad Group of companies and its Directors (English, Hindi, Marathi) ::: Request for Proposal for sale of PACL properties in Haryana, Uttar Pradesh, Tamil Nadu, Telangana, Maharashtra and Goa ::: Celebration of Global Money Week 2025 from March 17-23, 2025 ::: Advertisement for sale of PACL properties in Odisha,Haryana and Chandigarh, ::: For information about reward to informant under recovery proceedings, please click here ::: Requirements for filing objections w.r.t properties of PACL Limited ::: Public Notice - Submission of Original PACL Certificate for Refund ::: FAQs for grant of registration as Alternative Investment Fund (AIF) ::: For filing of Settlement Application, please click here ::: Innovation Sandbox - An initiative by SEBI ::: Participate in the fight against corruption - take online integrity pledge
+Home
+»
+Legal
+»
+Circulars
+Legal
+ 
+ 
+Acts
+Rules
+Regulations
+General Orders
+Guidelines
+Master Circulars
+Advisory/Guidance
+Circulars
+Gazette Notification
+Online portal for submission of application for Internship (Legal)
+Application for Internship
+Guidance Notes
+Categorization and Rationalization of Mutual Fund Schemes
 
-Page does not exist !!!
-Return to home page
+Oct 06, 2017| Circular No.: SEBI/HO/IMD/DF3/CIR/P/2017/114
 Follow Us
 
 

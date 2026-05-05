@@ -1,11 +1,11 @@
 ---
-source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-scrape_date: 20260504
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+scrape_date: 20260505
 tier: tier_1_groww
-scheme_name: mutual-funds_hdfc-small-cap-fund-direct-growth
+scheme_name: mutual-funds_hdfc-large-cap-fund-direct-growth
 domain: groww.in
-content_hash: sha256:524080d84c4310d87a35d825f8fc92dc16551da85500358425b8782772b30595
-word_count: 1751
+content_hash: sha256:4f6cca9b1470cf0cff4483ea43bbf27b7ceecce6e33072a405740ea59cb17a03
+word_count: 1763
 ---
 
 Stocks
@@ -15,9 +15,9 @@ More
 Search Groww....
 Ctrl+K
 Login/Sign up
-HDFC Small Cap Fund Direct Growth
+HDFC Large Cap Fund Direct Growth
 Equity
-Small Cap
+Large Cap
 Very High Risk
 +
 0
@@ -63,7 +63,7 @@ Very High Risk
 9
 %
 3Y annualised
--0.56%
++0.51%
 1D
 1M
 6M
@@ -71,14 +71,14 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 30 Apr '26
-₹150.67
+NAV: 04 May '26
+₹1,192.37
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹33,724.28 Cr
+₹35,458.50 Cr
 Expense ratio
-0.83%
+1.04%
 Rating
 4
 Return calculator
@@ -87,26 +87,26 @@ One time
 Monthly investment
 ₹100
 Over the past Total investment Would've become Historic returns Returns
-1 year ₹1,200 ₹1,175 
- -2.08%
-3 years ₹3,600 ₹3,914 
- +8.72%
-5 years ₹6,000 ₹8,395 
- +39.92%
-10 years ₹12,000 ₹30,861 
- +157.18%
-Holdings (83)
+1 year ₹1,200 ₹1,167 
+ -2.75%
+3 years ₹3,600 ₹3,834 
+ +6.50%
+5 years ₹6,000 ₹7,703 
+ +28.38%
+10 years ₹12,000 ₹23,418 
+ +95.15%
+Holdings (46)
 Name Sector Instruments Assets
-Aster DM Healthcare Ltd. Healthcare Equity 4.78%
-Bank Of Baroda Financial Equity 3.44%
-Firstsource Solutions Ltd. Services Equity 3.42%
-Eris Lifesciences Ltd. Healthcare Equity 2.59%
-eClerx Services Ltd. Services Equity 2.55%
-Indian Bank Financial Equity 2.43%
-Gabriel India Ltd. Automobile Equity 2.38%
-Fortis Healthcare Ltd. Healthcare Equity 2.23%
-The Great Eastern Shipping Company Ltd. Energy Equity 2.19%
-Krishna Institute of Medical Sciences Ltd Healthcare Equity 2.05%
+ICICI Bank Ltd. Financial Equity 9.39%
+HDFC Bank Ltd. Financial Equity 8.00%
+Bharti Airtel Ltd. Communication Equity 5.99%
+Reliance Industries Ltd. Energy Equity 5.40%
+Kotak Mahindra Bank Ltd. Financial Equity 5.13%
+Titan Company Ltd. Consumer Discretionary Equity 4.59%
+Infosys Ltd. Technology Equity 3.99%
+Torrent Pharmaceuticals Ltd. Healthcare Equity 3.79%
+Axis Bank Ltd. Financial Equity 3.51%
+Bajaj Auto Ltd. Automobile Equity 3.09%
 See All
 Minimum investments
 Min. for 1st investment
@@ -119,9 +119,9 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Name 3Y 5Y 10Y All
-Fund returns +17.4% +20.2% +18.9% +18.4%
-Category average (Equity Small Cap) +19.7% +22.6% +16.1% --
-Rank (Equity Small Cap) 29 11 4 --
+Fund returns +13.0% +14.8% +14.2% +13.2%
+Category average (Equity Large Cap) +15.1% +15.0% +13.2% --
+Rank (Equity Large Cap) 47 15 12 --
 Exit load, stamp duty and tax
 Exit load
 Exit load of 1% if redeemed within 1 year
@@ -134,27 +134,40 @@ Compare similar funds
  Name 1Y 3Y Fund Size(Cr)
 
  
-Bandhan Small Cap Fund Direct Growth
- +15.13% +32.17% 20,129.67
+Nippon India Large Cap Fund Direct Growth
+ +4.31% +16.86% 46,520.53
 
  
-Invesco India Smallcap Fund Direct Growth
- +12.62% +25.82% 9,207.58
+Invesco India Largecap Fund Direct Growth
+ +4.16% +16.83% 1,536.87
 
  
-Nippon India Small Cap Fund Direct Growth
- +11.19% +22.04% 61,808.85
+WhiteOak Capital Large Cap Fund Direct Growth
+ +3.29% +16.52% 1,045.06
 
  
-Sundaram Small Cap Fund Direct Growth
- +17.01% +21.81% 2,982.57
+ICICI Prudential Large Cap Fund Direct Growth
+ +1.23% +15.84% 69,947.55
 
  
-Quant Small Cap Fund Direct Plan Growth
- +9.37% +21.27% 25,820.99
+DSP Large Cap Fund Direct Growth
+ -1.55% +15.67% 6,619.60
 
 Compare
 Fund management
+RB
+Rahul Baijal
+Jul 2022 - Present
+View details
+Education
+Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering
+Experience
+Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.
+Also manages these schemes
+HDFC Large Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
 DM
 Dhruv Muchhal
 Jun 2023 - Present
@@ -211,25 +224,13 @@ HDFC Manufacturing Fund Direct Growth
 HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 HDFC Diversified Equity All Cap Active FoF Direct Growth
-CS
-Chirag Setalvad
-Jun 2014 - Present
-View details
-Education
-Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
-Experience
-Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.
-Also manages these schemes
-HDFC Mid Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth
-HDFC Children's Fund Direct Plan
-About HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 30 Apr 2026 is ₹150.67. The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+About HDFC Large Cap Fund Direct Growth
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹8,54,364 Cr and the Latest NAV as of 04 May 2026 is ₹1,192.37. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
-The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
 Fund benchmark
-BSE 250 SmallCap Total Return Index
+NIFTY 100 Total Return Index
 Scheme Information Document(SID)
 Fund house
 HDFC Mutual Fund
@@ -250,7 +251,7 @@ Launch Date
 Address
 "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
 Custodian
-Citibank NA
+HDFC Bank
 Registrar & Transfer Agent
 Cams
 Email
@@ -262,46 +263,46 @@ Address
 Other plans in the same fund
 Name
 
-HDFC Small Cap Fund Direct IDCW
+HDFC Large Cap Fund Direct IDCW
 FAQs
-How to Invest in HDFC Small Cap Fund Direct Growth?
+How to Invest in HDFC Large Cap Fund Direct Growth?
 
-You can easily invest in HDFC Small Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
+You can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
 
 Log on to your Groww account
-Search for HDFC Small Cap Fund Direct Growth from the search box
+Search for HDFC Large Cap Fund Direct Growth from the search box
 In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete
-Once you are done with that, you can start investing in HDFC Small Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance
+Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance
 
-What kind of returns does HDFC Small Cap Fund Direct Growth provide?
+What kind of returns does HDFC Large Cap Fund Direct Growth provide?
 
-The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 7.98% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is -0.36% since its inception.
 
-How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?
+How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?
 
-The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
+The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.83% as of 04 May 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.04% as of 05 May 2026...
 
-What is the AUM of HDFC Small Cap Fund Direct Growth?
+What is the AUM of HDFC Large Cap Fund Direct Growth?
 
-The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹33,724.28Cr as of 04 May 2026.
+The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹35,458.50Cr as of 05 May 2026.
 
-How to Redeem HDFC Small Cap Fund Direct Growth?
+How to Redeem HDFC Large Cap Fund Direct Growth?
 
-If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
+If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-Can I invest in SIP and Lump Sum of HDFC Small Cap Fund Direct Growth?
+Can I invest in SIP and Lump Sum of HDFC Large Cap Fund Direct Growth?
 
-You can select either SIP or Lumpsum investment of HDFC Small Cap Fund Direct Growth based on your investment objective and risk tolerance.
+You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on your investment objective and risk tolerance.
 
-What is the NAV of HDFC Small Cap Fund Direct Growth?
+What is the NAV of HDFC Large Cap Fund Direct Growth?
 
-The NAV of HDFC Small Cap Fund Direct Growth is ₹150.67 as of 30 Apr 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,192.37 as of 04 May 2026.
 
-What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?
+What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 
-The PE ratio ratio of HDFC Small Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
+The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
 
 Looking to invest in mutual funds?
 Explore diversified funds designed for every investor
@@ -312,7 +313,7 @@ Mutual Funds
 >
 HDFC Mutual Fund
 >
-HDFC Small Cap Fund Direct Growth
+HDFC Large Cap Fund Direct Growth
 Vaishnavi Tech Park, South Tower, 3rd Floor
 Sarjapur Main Road, Bellandur, Bengaluru – 560103
 Karnataka
