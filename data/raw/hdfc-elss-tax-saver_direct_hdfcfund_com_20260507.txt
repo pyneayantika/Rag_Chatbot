@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver/direct
-scrape_date: 20260506
+scrape_date: 20260507
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-elss-tax-saver_direct
 domain: hdfcfund.com
-content_hash: sha256:60b88b82cd97fe0baa27c87246e612b76a480b18ee25846f44193f0e723508c5
-word_count: 984
+content_hash: sha256:c4d466d1e7c7af7cad6a84457ec332541a64861573d0077154bdfe261b440ba8
+word_count: 986
 ---
 
 HDFC ELSS Tax Saver Fund Direct Growth - NAV, Portfolio and Performance | HDFC Mutual Funds
@@ -106,7 +106,7 @@ SID - HDFC ELSS Tax Saver dated November 21, 2025
 KIM - HDFC ELSS Tax Saver dated November 21, 2025
 HDFC ELSS Tax saver Presentation (October 2025)
 Leaflet 
-Fund Facts - HDFC TaxSaver Fund_March 26.pdf
+Fund Facts - HDFC TaxSaver Fund - April 26
 Exit Load
 NIL
 

@@ -1,10 +1,10 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
-scrape_date: 20260506
+scrape_date: 20260507
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-flexi-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:777aa9ae3e65bf2825da67114e1b1a9b4df22639147816540bb0e93e06fa7559
+content_hash: sha256:9219a1fc9b7bb60006e6c5d5b359e623add2559014c124bd4423f99150112e00
 word_count: 1196
 ---
 
@@ -120,7 +120,7 @@ Downloads
 HDFC Flexi Cap Fund
 SID - HDFC Flexi Cap Fund dated November 21, 2025
 KIM - HDFC Flexi Cap Fund dated November 21, 2025
-Fund Facts - HDFC Flexi Cap Fund_March 26.pdf
+Fund Facts - HDFC Flexi Cap Fund_April 26
 HDFC Flexi Cap Fund-Presentation (April 2026).pdf
 HDFC Flexi Cap Fund Leaflet (as of March 2026).pdf
 Exit Load
