@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/investor-services/fund-documents/sid
-scrape_date: 20260514
+scrape_date: 20260515
 tier: tier_2_hdfc_amc
 scheme_name: fund-documents_sid
 domain: hdfcfund.com
-content_hash: sha256:f818f72cb09164ea7c46ed1d3af1f8901de82c71f7d88402be4d06233709d63f
-word_count: 92
+content_hash: sha256:1f4e7a2436c103be76660a8de38c20a3b987c4f50ffb12d5a0dee5674cd3e930
+word_count: 94
 ---
 
 Scheme Information Document (SID) | HDFC Mutual Fund
@@ -25,3 +25,4 @@ SID-2-HDFC CPO-I-36M September 2013
 SID-3-HDFC CPO-I-36M October 2013
 SID1-HDFC CPO-II-36M January 2014
 SID 2-HDFC CPO-II-36M February 2014
+Ask Me

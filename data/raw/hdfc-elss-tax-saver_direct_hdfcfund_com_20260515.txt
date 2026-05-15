@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver/direct
-scrape_date: 20260514
+scrape_date: 20260515
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-elss-tax-saver_direct
 domain: hdfcfund.com
-content_hash: sha256:abf4b0888978aedf8760a8ec184932c9436aac262f3f3ef7bef3a9402c1576c8
-word_count: 986
+content_hash: sha256:327664f22cef6ceb9805dcf4b0c828ade0013fe98c0ba2931eaf6acdf9202ff5
+word_count: 988
 ---
 
 HDFC ELSS Tax Saver Fund Direct Growth - NAV, Portfolio and Performance | HDFC Mutual Funds
@@ -109,20 +109,13 @@ Leaflet
 Fund Facts - HDFC TaxSaver Fund - April 26
 Exit Load
 NIL
-
 Product Labelling
 Benchmark Riskometer
-
 This product is suitable for investors who are seeking~
-
 to generate long-term capital appreciation/income
-
  investment predominantly of equity and equity related instruments
  
- 
-
 ~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
-
 FAQs
 1. How to Invest in HDFC ELSS Tax Saver?
 Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.
@@ -146,3 +139,5 @@ For Redemption (including switch-out) applications
 Transactions through online facilities / electronic modes:
 The time of transaction done through various online facilities / electronic modes offered by the AMC, for the purpose of determining the applicability of NAV, would be the time when the request for purchase / sale / switch of units is received in the servers of AMC/RTA.
 The AMC has the right to amend cut off timings subject to SEBI (MF) Regulations for the smooth and efficient functioning of the Scheme.
+ 
+Ask Me

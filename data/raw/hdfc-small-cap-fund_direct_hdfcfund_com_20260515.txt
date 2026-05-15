@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
-scrape_date: 20260514
+scrape_date: 20260515
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-small-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:cec25598dd64a106993a73199348653eb3671e7ce91433598833415739d8ac7a
-word_count: 1167
+content_hash: sha256:e0811abae1b5b299c93feae9a3b7359b748d56d582d1daf4809688d32fb6abb7
+word_count: 1169
 ---
 
 HDFC Small Cap Fund Direct Growth - NAV | HDFC Mutual Fund
@@ -167,3 +167,4 @@ What is the minimum investment in HDFC Small Cap Fund?
 Rs.100/- and any amount thereafter
 How is HDFC Small Cap Fund different from a large-cap fund?
 A small-cap fund invests primarily in smaller companies, whereas large-cap funds invest mainly in well-established companies with larger market capitalisation. Small-cap funds may offer higher growth potential but can also experience higher volatility.
+Ask Me

@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/statutory-disclosure/total-expense-ratio-of-mutual-fund-schemes/notices
-scrape_date: 20260514
+scrape_date: 20260515
 tier: tier_2_hdfc_amc
 scheme_name: total-expense-ratio-of-mutual-fund-schemes_notices
 domain: hdfcfund.com
-content_hash: sha256:5e002ffbec0d7cc82ec7caeacea66b89c55afbb9dba195c3810b4b0bb195bf70
-word_count: 1021
+content_hash: sha256:a020e712dded665cae06a6893520e5b1bcc8e651de4e646828d8629cd32e7cab
+word_count: 1023
 ---
 
 Total Expense Ratio of Mutual Fund Schemes - HDFC Mutual Fund
@@ -98,3 +98,4 @@ HDFC Children's Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
 HDFC Banking & Financial Services Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
 HDFC Balanced Advantage Fund Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
 Consolidated Notice for Expense change 07-04-2026 DP WEF 16-04-2026.pdf
+Ask Me

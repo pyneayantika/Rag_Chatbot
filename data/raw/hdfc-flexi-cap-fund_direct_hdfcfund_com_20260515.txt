@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
-scrape_date: 20260514
+scrape_date: 20260515
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-flexi-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:71a7429021b6998ee30f4327f2ff2c0b9a51444bc4fad2799649183d358a6a5a
-word_count: 1196
+content_hash: sha256:91feeea67fbd2d31a17c946be5c8595ddfda1c3a9e6f831d4f1e32a00a3843d0
+word_count: 1198
 ---
 
 HDFC Flexi Cap Fund to Invest - Direct Plan
@@ -160,3 +160,4 @@ The minimum SIP amount for HDFC Flexi Cap Fund is ₹100 (or as specified by the
 You can refer website or the scheme information document for the latest investment requirements.
 What benchmark does HDFC Flexi Cap Fund use?
 HDFC Flexi Cap Fund is benchmarked against NIFTY 500 Total Returns Index (TRI), which represents the performance of a broad range of companies across different market capitalisations.
+Ask Me

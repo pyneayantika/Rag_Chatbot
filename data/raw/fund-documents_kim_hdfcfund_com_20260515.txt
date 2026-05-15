@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/investor-services/fund-documents/kim
-scrape_date: 20260514
+scrape_date: 20260515
 tier: tier_2_hdfc_amc
 scheme_name: fund-documents_kim
 domain: hdfcfund.com
-content_hash: sha256:f545b1f90ad33d40055c2ecdb06c45ae170a3017a363bc915fa11ba0394de39b
-word_count: 110
+content_hash: sha256:6063437e81c8202f08b2a05e43ebd9f8be0b0edb9fc0a047fe251825e16a13c2
+word_count: 112
 ---
 
 Key Information Memorandum (KIM) | HDFC Mutual Fund
@@ -25,3 +25,4 @@ KIM - HDFC Regular Savings Fund
 KIM - HDFC Prudence Fund 
 KIM - HDFC Hybrid Equity Fund dated November 21, 2025
 KIM - HDFC NIFTY 50 ETF dated November 21, 2025
+Ask Me
