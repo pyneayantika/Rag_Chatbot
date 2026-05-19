@@ -1,14 +1,14 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver/direct
-scrape_date: 20260518
+scrape_date: 20260519
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-elss-tax-saver_direct
 domain: hdfcfund.com
-content_hash: sha256:327664f22cef6ceb9805dcf4b0c828ade0013fe98c0ba2931eaf6acdf9202ff5
+content_hash: sha256:8b15d9fc27fef5597f232ce462155e12d3be221021b45983bc217671a9ff9cbd
 word_count: 988
 ---
 
-HDFC ELSS Tax Saver Fund Direct Growth - NAV, Portfolio and Performance | HDFC Mutual Funds
+HDFC ELSS Tax Saver – Direct Plan | NAV, Returns & SIP | HDFC Mutual Fund
 
 HDFC 
 ELSS Tax Saver
@@ -113,7 +113,7 @@ Product Labelling
 Benchmark Riskometer
 This product is suitable for investors who are seeking~
 to generate long-term capital appreciation/income
- investment predominantly of equity and equity related instruments
+investment predominantly of equity and equity related instruments
  
 ~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
 FAQs

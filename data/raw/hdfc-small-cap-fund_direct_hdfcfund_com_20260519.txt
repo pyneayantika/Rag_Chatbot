@@ -1,14 +1,14 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
-scrape_date: 20260518
+scrape_date: 20260519
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-small-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:264e4c2494534ae86d86efa103e0486a6e297baf87683affc48c9a7f8a216feb
-word_count: 1169
+content_hash: sha256:2caa26550f6fd7d13d2cfb168675254141cff12c9604dc0086af8bbd6adf86a0
+word_count: 1173
 ---
 
-HDFC Small Cap Fund Direct Growth - NAV | HDFC Mutual Fund
+HDFC Small Cap Fund – Direct Plan | NAV, Returns & SIP | HDFC Mutual Fund
 
 HDFC 
 Small Cap Fund
