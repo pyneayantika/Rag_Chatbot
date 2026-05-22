@@ -1,39 +1,34 @@
 ---
-source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-mid-cap-fund/direct
-scrape_date: 20260521
+source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct
+scrape_date: 20260522
 tier: tier_2_hdfc_amc
-scheme_name: hdfc-mid-cap-fund_direct
+scheme_name: hdfc-large-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:89e526546521ecd37816fca4985bcec51edf5d4f858a36a480e88e04de7b7cb1
-word_count: 844
+content_hash: sha256:254aadc809aef2191244158003498b5d3a495451d969372e848f4090493ebb82
+word_count: 891
 ---
 
-HDFC Mid Cap Fund Direct Plan | NAV & Returns | HDFC Mutual Fund
+HDFC Large Cap Fund – Direct Plan | NAV, Returns & SIP | HDFC Mutual Fund
 
 HDFC 
-Mid Cap Fund
+Large Cap Fund
 Equity
 DIRECT
 REGULAR
-An open ended equity scheme predominantly investing in mid cap stocks.
+An open ended equity scheme predominantly investing in large cap stocks.
 
-The Scheme shall follow a predominantly Mid cap strategy with a minimum exposure of 65% to Mid-Cap stocks. The Scheme may also seek participation in other equity and equity related securities to achieve optimal portfolio construction.
+This is a simple and performing scheme which is eligible for distribution by new cadre of distributors.
 
-The aim of equity strategy will be to predominantly build a portfolio of mid-cap companies which have:
+The Scheme aims to provide long-term capital appreciation. It will maintain a minimum exposure of 80% to Large Cap stocks, as defined by SEBI, which currently are the 100 largest companies in India in terms of full market capitalization.
+
  
-a) reasonable growth prospects
- 
-b) sound financial strength
- 
-c) sustainable business models
- 
-d) acceptable valuation that offers potential for capital appreciation.
- 
- 
+Generally, large cap companies are well established businesses that are in operation for a longer period of time and are well positioned to absorb business pressures across various market cycles. Due to their size, they also benefit from economies of scale.
+
+The Scheme will remain diversified across key sectors and economic variables.
 
 Returns
 since inception
-20.16%
+13.13%
 Inception Date
 01/01/2013
 Riskometer
@@ -54,7 +49,7 @@ Disclaimer
 Including Additional Expenses and Goods and Service Tax on Management Fees, if any. 
 Click here
  to view the Total Expense Ratio
-0.75
+0.99
 Lock in
 A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
 
@@ -70,12 +65,12 @@ AUM
 (30/04/2026)
 Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
 
-₹94,744.72 Cr.
+₹38,121.27 Cr.
 Benchmark
 A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
 
-NIFTY Midcap 150 Ind...
-NIFTY Midcap 150 Index (Total Returns Index)
+NIFTY 100 (Total Ret...
+NIFTY 100 (Total Return Index)
 INVEST NOW
 Nav Performance
 No data available
@@ -86,11 +81,11 @@ Value of Investment of Rs 10,000
 Scheme Returns (Rs.)
 Benchmark (Rs.)#
 Additional Benchmark (Rs.)##
-^Past performance may or may not be sustained in future and is not a guarantee of any future returns. # Nifty Midcap 150 Index TRI...
+^Past performance may or may not be sustained in future and is not a guarantee of any future returns. # Nifty 100 TRI ## BSE SENSE...
 Read More
 Fund Managers
-Mr. Chirag Setalvad
-Fund Manger- Head of Equities 
+Mr. Rahul Baijal
+Senior Member Investment Team (Equity)
 OVERSEAS
 Mr. Dhruv Muchhal
 Equity Analyst and Fund Manager for Overseas Investments
@@ -101,12 +96,12 @@ As on 31 Mar 2026
 Graph
 Table
 Downloads
-HDFC Mid Cap Fund
-SID - HDFC Mid Cap Fund dated November 21, 2025
-KIM - HDFC Mid Cap Fund dated November 21, 2025
-Leaflet 
-HDFC Mid Cap Fund Presentation (October 2025)
-Fund Facts - HDFC Mid-Cap Fund - April 26
+HDFC Large Cap Fund
+SID - HDFC Large Cap Fund dated November 21, 2025
+KIM - HDFC Large Cap Fund dated November 21, 2025
+HDFC Large Cap Fund Leaflet (Jan 2026)
+HDFC Large Cap Fund Presentation (September 2025)
+Fund Facts - HDFC Large Cap Fund - April 26
 Exit Load
 ● In respect of each purchase/switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 1 year from the date of allotment.
 ● No Exit Load is payable if Units are redeemed/switched-out after 1 year from the date of allotment.
@@ -115,13 +110,20 @@ Product Labelling
 Benchmark Riskometer
 This product is suitable for investors who are seeking~
 • to generate long-term capital appreciation/income
-• investments predominantly in Mid-Cap companies
-~Investors should consult their financial advisers if in doubt about whether the product is suitable for them.
+• investment predominantly in Large-Cap companies
+~Investors should consult their financial advisers if in doubt about whether the product is suitable for them
 FAQs
-Can I invest in SIP and Lump Sum of HDFC Mid Cap Fund ?
-Yes, SIP as well as Lump Sum investments are permitted with the minimum application amount being ₹100. Any additional purchase must have a minimum amount of ₹100. The SIP and Lumpsum are available in direct and regular plan with both Growth and IDCW option.
+What are the top holdings in the HDFC Top 100 Fund's portfolio?
+Click here
  
-How to Invest in HDFC Mid Cap Fund ?
+Who should consider investing in the HDFC Top 100 Fund?
+This product is suitable for investors who are seeking~
+To generate long-term capital appreciation / income
+Investment predominantly in Large-cap companies
+ 
+~ Investors should consult their financial advisers, if in doubt about whether the product is suitable for them
+ 
+How to Invest in HDFC Top 100 Fund?
 Investors can apply for their transactions requests either offline or electronically using the relevant application / transaction request forms available on our website or at any of our Officials Points of Acceptance.
 The application form/transaction slip for subscription/ redemption/ switches can be submitted at our Official Points of Acceptances whose addresses are available on the website of the AMC. These include:
 AMC / RTA’s branches i.e. Investor Services Centres*
@@ -131,7 +133,7 @@ Authorized Points of Service of MF Utilities India Private Limited (MFUI)
 Channel partners/ Distributors/ RIAs/ Portfolio Managers/Execution Only Platforms (EOPs) who have tied up with the AMC
 MF Central
  
-*Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.
+* Note: Business Centres i.e. Sales offices of HDFC AMC are not Official Points of Acceptance of transactions.
 The above list is indicative. For further details, including cut-off timing and applicability of NAV, refer Section II.
 Please refer Scheme Documents above for more details
  
