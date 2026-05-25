@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-mid-cap-fund/direct
-scrape_date: 20260524
+scrape_date: 20260525
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-mid-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:cc91dcb84d51edcafb86d79d795c2f87e162f3c41e033afa137626c451ab1b19
-word_count: 844
+content_hash: sha256:c2a4195196201c4d48952902039b5effb1f242ed0d00135a03a2c8503f245fe1
+word_count: 843
 ---
 
 HDFC Mid Cap Fund Direct Plan | NAV & Returns | HDFC Mutual Fund
@@ -106,7 +106,7 @@ SID - HDFC Mid Cap Fund dated November 21, 2025
 KIM - HDFC Mid Cap Fund dated November 21, 2025
 Leaflet 
 HDFC Mid Cap Fund Presentation (October 2025)
-Fund Facts - HDFC Mid-Cap Fund - April 26
+Fund Facts - HDFC Mid-Cap Fund_May 26 (1).pdf
 Exit Load
 ● In respect of each purchase/switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 1 year from the date of allotment.
 ● No Exit Load is payable if Units are redeemed/switched-out after 1 year from the date of allotment.

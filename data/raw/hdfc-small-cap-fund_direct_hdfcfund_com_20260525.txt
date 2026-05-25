@@ -1,11 +1,11 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
-scrape_date: 20260524
+scrape_date: 20260525
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-small-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:2caa26550f6fd7d13d2cfb168675254141cff12c9604dc0086af8bbd6adf86a0
-word_count: 1173
+content_hash: sha256:7cc531b09ae778c0f7790acec311796cf06f6eed7ee1844e930478cb46d91ed1
+word_count: 1171
 ---
 
 HDFC Small Cap Fund – Direct Plan | NAV, Returns & SIP | HDFC Mutual Fund
@@ -132,7 +132,7 @@ SID - HDFC Small Cap Fund dated November 21, 2025
 KIM - HDFC Small Cap Fund dated November 21, 2025
 Note - Why Invest in HDFC Small Cap Fund - Nov 2025 
 HDFC Small Cap Fund - Presentation (October 2025)
-Fund Facts - HDFC Small Cap Fund - April 26
+Fund Facts - HDFC Small Cap Fund_May 26.pdf
 Exit Load
 In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed / switched out within 1 year from the date of allotment.
 No Exit Load is payable if Units are redeemed / switched out after 1 year from the date of allotment.
