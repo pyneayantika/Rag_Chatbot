@@ -1,16 +1,17 @@
 ---
 source_url: https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-mutual-fund-schemes_36199.html
-scrape_date: 20260526
+scrape_date: 20260527
 tier: tier_4_sebi
 scheme_name: oct-2017_categorization-and-rationalization-of-mutual-fund-schemes_36199.html
 domain: sebi.gov.in
-content_hash: sha256:df9ec9df1fdd74d7600943b7a73782832dc7ad0f2b40500bf78e011ed486a069
-word_count: 497
+content_hash: sha256:43606d56d64b91c2d09c5e34eb31c1d8a5465998e97ab5f3457b042f861c2e30
+word_count: 500
 ---
 
-NEW 
-INVESTOR WEBSITE 
-हिन्दी
+SEBI Check
+Scan QR
+Type
+Account
 (A)+
 (A)
 (A)-
@@ -18,7 +19,8 @@ Skip to main content
 A
 A
 
-SEBI Check
+NEW 
+INVESTOR WEBSITE 
 ABOUT
  
 LEGAL
