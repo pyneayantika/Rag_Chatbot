@@ -1,11 +1,11 @@
 ---
-source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-scrape_date: 20260527
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+scrape_date: 20260528
 tier: tier_1_groww
-scheme_name: mutual-funds_hdfc-small-cap-fund-direct-growth
+scheme_name: mutual-funds_hdfc-equity-fund-direct-growth
 domain: groww.in
-content_hash: sha256:2cb5b8a62f93900ac0e3e02bf1e8861beb5ba3fce6644b150800ea6b0c7e3e76
-word_count: 1745
+content_hash: sha256:0ec2882242316e232c6ac73efbc1418d379ebf08c7d94f99e700c387f4c89d5d
+word_count: 1746
 ---
 
 Stocks
@@ -15,9 +15,9 @@ More
 Search Groww....
 Ctrl+K
 Login/Sign up
-HDFC Small Cap Fund Direct Growth
+HDFC Flexi Cap Direct Plan Growth
 Equity
-Small Cap
+Flexi Cap
 Very High Risk
 +
 0
@@ -63,7 +63,7 @@ Very High Risk
 9
 %
 3Y annualised
-+0.06%
++0.05%
 1D
 1M
 6M
@@ -71,42 +71,42 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 26 May '26
-₹153.92
+NAV: 27 May '26
+₹2,159.84
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹38,168.18 Cr
+₹1,00,479.23 Cr
 Expense ratio
-0.73%
+0.72%
 Rating
-4
+5
 Return calculator
 Monthly SIP
 One time
 Monthly investment
 ₹100
 Over the past Total investment Would've become Historic returns Returns
-1 year ₹1,200 ₹1,168 
- -2.67%
-3 years ₹3,600 ₹3,875 
- +7.64%
-5 years ₹6,000 ₹8,324 
- +38.73%
-10 years ₹12,000 ₹30,729 
- +156.08%
-Holdings (84)
+1 year ₹1,200 ₹1,186 
+ -1.17%
+3 years ₹3,600 ₹4,151 
+ +15.31%
+5 years ₹6,000 ₹8,816 
+ +46.93%
+10 years ₹12,000 ₹29,445 
+ +145.38%
+Holdings (68)
 Name Sector Instruments Assets
-Aster DM Healthcare Ltd. Healthcare Equity 4.42%
-Bank Of Baroda Financial Equity 3.23%
-Firstsource Solutions Ltd. Services Equity 3.17%
-Gabriel India Ltd. Automobile Equity 2.63%
-eClerx Services Ltd. Services Equity 2.35%
-Eris Lifesciences Ltd. Healthcare Equity 2.34%
-Fortis Healthcare Ltd. Healthcare Equity 2.28%
-Indian Bank Financial Equity 2.16%
-The Great Eastern Shipping Company Ltd. Energy Equity 2.16%
-Krishna Institute of Medical Sciences Ltd Healthcare Equity 1.94%
+ICICI Bank Ltd. Financial Equity 8.69%
+Axis Bank Ltd. Financial Equity 6.83%
+HDFC Bank Ltd. Financial Equity 6.81%
+State Bank of India Financial Equity 4.74%
+SBI Life Insurance Company Ltd. Insurance Equity 3.79%
+Kotak Mahindra Bank Ltd. Financial Equity 3.47%
+Larsen & Toubro Ltd. Construction Equity 3.35%
+Bharti Airtel Ltd. Communication Equity 3.10%
+Maruti Suzuki India Ltd. Automobile Equity 2.78%
+Power Grid Corporation Of India Ltd. Energy Equity 2.78%
 See All
 Minimum investments
 Min. for 1st investment
@@ -119,9 +119,9 @@ Returns and rankings
 Annualised returns
 Absolute returns
 Name 3Y 5Y 10Y All
-Fund returns +16.1% +18.3% +18.9% +18.4%
-Category average (Equity Small Cap) +19.7% +22.6% +16.1% --
-Rank (Equity Small Cap) 29 14 4 --
+Fund returns +19.0% +18.5% +16.9% +16.0%
+Category average (Equity Flexi Cap) +16.0% +15.6% +13.5% --
+Rank (Equity Flexi Cap) 12 4 3 --
 Exit load, stamp duty and tax
 Exit load
 Exit load of 1% if redeemed within 1 year
@@ -134,24 +134,24 @@ Compare similar funds
  Name 1Y 3Y Fund Size(Cr)
 
  
-Bandhan Small Cap Fund Direct Growth
- +8.94% +31.20% 25,345.79
+HSBC Flexi Cap Fund Direct Growth
+ +6.58% +19.26% 5,405.12
 
  
-Invesco India Smallcap Fund Direct Growth
- +8.70% +24.61% 11,038.23
+JM Flexicap Fund Direct Plan Growth
+ -0.42% +19.24% 5,040.51
 
  
-Quant Small Cap Fund Direct Plan Growth
- +8.13% +22.02% 30,373.69
+HDFC Flexi Cap Direct Plan Growth
+ +1.39% +18.97% 1,00,479.23
 
  
-Sundaram Small Cap Fund Direct Growth
- +12.84% +21.60% 3,562.91
+Parag Parikh Flexi Cap Fund Direct Growth
+ +0.95% +16.24% 1,40,949.13
 
  
-Nippon India Small Cap Fund Direct Growth
- +6.77% +21.02% 72,672.99
+Franklin India Flexi Cap Fund Direct Growth
+ -2.42% +16.02% 19,049.25
 
 Compare
 Fund management
@@ -210,25 +210,24 @@ HDFC Manufacturing Fund Direct Growth
 HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 HDFC Diversified Equity All Cap Active FoF Direct Growth
-CS
-Chirag Setalvad
-Jun 2014 - Present
+AG
+Amit Ganatra
+Jan 2026 - Present
 View details
 Education
-Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
+Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR.
 Experience
-Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.
+Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
 Also manages these schemes
-HDFC Mid Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth
-HDFC Children's Fund Direct Plan
-About HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 26 May 2026 is ₹153.92. The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
+HDFC Flexi Cap Direct Plan Growth
+HDFC Focused Fund Direct Growth
+About HDFC Flexi Cap Direct Plan Growth
+HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 27 May 2026 is ₹2,159.84. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
-The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
 Fund benchmark
-BSE 250 SmallCap Total Return Index
+NIFTY 500 Total Return Index
 Scheme Information Document(SID)
 Fund house
 HDFC Mutual Fund
@@ -249,7 +248,7 @@ Launch Date
 Address
 "HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
 Custodian
-Citibank NA
+Deutsche Bank
 Registrar & Transfer Agent
 Cams
 Email
@@ -258,49 +257,45 @@ Website
 www.camsonline.com
 Address
 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
-Other plans in the same fund
-Name
-
-HDFC Small Cap Fund Direct IDCW
 FAQs
-How to Invest in HDFC Small Cap Fund Direct Growth?
+How to Invest in HDFC Flexi Cap Direct Plan Growth?
 
-You can easily invest in HDFC Small Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
+You can easily invest in HDFC Flexi Cap Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:
 
 Log on to your Groww account
-Search for HDFC Small Cap Fund Direct Growth from the search box
+Search for HDFC Flexi Cap Direct Plan Growth from the search box
 In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete
-Once you are done with that, you can start investing in HDFC Small Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance
+Once you are done with that, you can start investing in HDFC Flexi Cap Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance
 
-What kind of returns does HDFC Small Cap Fund Direct Growth provide?
+What kind of returns does HDFC Flexi Cap Direct Plan Growth provide?
 
-The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.45% since its inception.
+The HDFC Flexi Cap Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 15.95% since its inception.
 
-How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?
+How much expense ratio is charged by HDFC Flexi Cap Direct Plan Growth?
 
-The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
+The term Expense Ratio used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.73% as of 27 May 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.72% as of 28 May 2026...
 
-What is the AUM of HDFC Small Cap Fund Direct Growth?
+What is the AUM of HDFC Flexi Cap Direct Plan Growth?
 
-The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹38,168.18Cr as of 27 May 2026.
+The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹1,00,479.23Cr as of 28 May 2026.
 
-How to Redeem HDFC Small Cap Fund Direct Growth?
+How to Redeem HDFC Flexi Cap Direct Plan Growth?
 
-If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
+If you want to sell your HDFC Flexi Cap Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.
 
-Can I invest in SIP and Lump Sum of HDFC Small Cap Fund Direct Growth?
+Can I invest in SIP and Lump Sum of HDFC Flexi Cap Direct Plan Growth?
 
-You can select either SIP or Lumpsum investment of HDFC Small Cap Fund Direct Growth based on your investment objective and risk tolerance.
+You can select either SIP or Lumpsum investment of HDFC Flexi Cap Direct Plan Growth based on your investment objective and risk tolerance.
 
-What is the NAV of HDFC Small Cap Fund Direct Growth?
+What is the NAV of HDFC Flexi Cap Direct Plan Growth?
 
-The NAV of HDFC Small Cap Fund Direct Growth is ₹153.92 as of 26 May 2026.
+The NAV of HDFC Flexi Cap Direct Plan Growth is ₹2,159.84 as of 27 May 2026.
 
-What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?
+What is the PE and PB ratio of HDFC Flexi Cap Direct Plan Growth?
 
-The PE ratio ratio of HDFC Small Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
+The PE ratio ratio of HDFC Flexi Cap Direct Plan Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).
 
 Looking to invest in mutual funds?
 Explore diversified funds designed for every investor
@@ -311,7 +306,7 @@ Mutual Funds
 >
 HDFC Mutual Fund
 >
-HDFC Small Cap Fund Direct Growth
+HDFC Flexi Cap Direct Plan Growth
 Vaishnavi Tech Park, South Tower, 3rd Floor
 Sarjapur Main Road, Bellandur, Bengaluru – 560103
 Karnataka
@@ -344,7 +339,7 @@ Demat Account
 Groww AMC
 PMS
 © 2016-2026 Groww. All rights reserved.
-Version: 7.6.6
+Version: 7.6.8
 Share Market
 Indices
 F&O
