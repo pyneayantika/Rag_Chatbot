@@ -1,10 +1,10 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-small-cap-fund/direct
-scrape_date: 20260603
+scrape_date: 20260604
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-small-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:7a58ae2e2a0eab21b88d5f7c634b47e908e6b88214ae9fc2448ca040b0d9d5eb
+content_hash: sha256:b7c1435d8cd13c89be7adbfc51bb91928cf89495b2e8abafaeb6cbc7f98b9021
 word_count: 1171
 ---
 
@@ -80,7 +80,7 @@ Disclaimer
 Including Additional Expenses and Goods and Service Tax on Management Fees, if any. 
 Click here
  to view the Total Expense Ratio
-0.78
+0.73
 Lock in
 A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
 
@@ -93,10 +93,10 @@ Net Asset Value (NAV) per unit is the total market value of securities of a sche
 NA
 AUM
  
-(30/04/2026)
+(31/05/2026)
 Assets Under Management (AUM) is the total market value of all assets that a Mutual Fund manages on behalf of its investors.
 
-₹38,168.18 Cr.
+₹38,809.48 Cr.
 Benchmark
 A benchmark is a standard market index used to compare a Fund’s performance. It helps investors know whether the Fund is performing better, worse, or similar to the market.
 
