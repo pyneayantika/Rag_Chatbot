@@ -1,11 +1,11 @@
 ---
 source_url: https://www.amfiindia.com/articles/mutual-fund
-scrape_date: 20260609
+scrape_date: 20260610
 tier: tier_3_amfi
 scheme_name: articles_mutual-fund
 domain: amfiindia.com
-content_hash: sha256:ea5be1e7f5bd420268607c7da3d1496a263a1131cb2f396bce7551ca2ee053ea
-word_count: 336
+content_hash: sha256:6f9a1d2d804ac669a3bd4a0c86507f8c81227642d7b5680b0782a2301d346a61
+word_count: 332
 ---
 
 AMFI
@@ -22,7 +22,7 @@ Research & Information
 About AMFI
 Contact Us
 Search
-Total amount collected through SIP during April 2026 was ₹ 31,115 crore.
+Total amount collected through SIP during May 2026 was ₹ 30,954 crore.
 Systematic Investment Plan
  or 
 SIP 
@@ -31,7 +31,6 @@ SIP is a very convenient method of investing in mutual funds through standing in
 SIP has been gaining popularity among Indian MF investors, as it helps in Rupee Cost Averaging and also in investing in a disciplined manner without worrying about market volatility and timing the market.
 Month-wise SIP contribution collected from FY 2016-17 onwards are mentioned below:
 Details of new SIPs registered and discontinued during FY 25-26 are as under : 
-(SIP Count in Lakh)
 * As per SEBI guidelines, the SIPs where 
  - 3 consecutive instalments with respect to daily, weekly, fortnightly, and monthly intervals and 
  - 2 consecutive instalments with respect to others are failed, are treated as ceased/discontinued.
