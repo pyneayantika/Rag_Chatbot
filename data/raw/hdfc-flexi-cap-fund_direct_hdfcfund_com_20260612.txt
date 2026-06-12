@@ -1,10 +1,10 @@
 ---
 source_url: https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct
-scrape_date: 20260611
+scrape_date: 20260612
 tier: tier_2_hdfc_amc
 scheme_name: hdfc-flexi-cap-fund_direct
 domain: hdfcfund.com
-content_hash: sha256:af203da113df324d0eec7b9357da7aaa6bdc59f6b2a8f9618c7cc956aa0c3c03
+content_hash: sha256:541e42e015c8ca97d510dc51b9443e6e58e52ba65b406206ffef7aaddb670abc
 word_count: 1205
 ---
 
@@ -49,7 +49,7 @@ Confirm & Start Investing
 Your investment will be processed and units will be allotted.
 Returns
 since inception
-15.95%
+15.83%
 Inception Date
 01/01/2013
 Riskometer
@@ -70,7 +70,7 @@ Disclaimer
 Including Additional Expenses and Goods and Service Tax on Management Fees, if any. 
 Click here
  to view the Total Expense Ratio
-0.68
+0.78
 Lock in
 A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.
 
