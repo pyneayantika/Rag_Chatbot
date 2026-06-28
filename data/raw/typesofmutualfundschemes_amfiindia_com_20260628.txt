@@ -1,6 +1,6 @@
 ---
 source_url: https://www.amfiindia.com/investor/knowledge-center-info?zoneName=TypesOfMutualFundSchemes
-scrape_date: 20260627
+scrape_date: 20260628
 tier: tier_3_amfi
 scheme_name: typesofmutualfundschemes
 domain: amfiindia.com
