@@ -1,8 +1,8 @@
 ---
-source_url: https://www.sebi.gov.in/investors/investor-charter/mutual-funds.html
-scrape_date: 20260628
+source_url: https://www.sebi.gov.in/legal/circulars/jan-2018/performance-benchmarking-of-mutual-fund-schemes_37415.html
+scrape_date: 20260629
 tier: tier_4_sebi
-scheme_name: investor-charter_mutual-funds.html
+scheme_name: jan-2018_performance-benchmarking-of-mutual-fund-schemes_37415.html
 domain: sebi.gov.in
 content_hash: sha256:46d2ce6f016a61d7d32c5d91e51e04666b543a196da5fa9ef2f06705b4a41eee
 word_count: 477
