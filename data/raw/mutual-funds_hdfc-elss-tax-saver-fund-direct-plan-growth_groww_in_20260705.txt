@@ -1,10 +1,10 @@
 ---
 source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
-scrape_date: 20260704
+scrape_date: 20260705
 tier: tier_1_groww
 scheme_name: mutual-funds_hdfc-elss-tax-saver-fund-direct-plan-growth
 domain: groww.in
-content_hash: sha256:f8a4679d2f5ec8be72e4154a3206c170360ee636579356e9fa28d3f29fc66203
+content_hash: sha256:c9ec3ee349e90b2fc9be012a86c4ada5c491389fe40717eaf7b4e376ccc0e6ed
 word_count: 1798
 ---
 
@@ -280,11 +280,11 @@ How much expense ratio is charged by HDFC ELSS Tax Saver Fund Direct Plan Growth
 
 The term Expense Ratio used for HDFC ELSS Tax Saver Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 1.20% as of 04 Jul 2026...
+The Expense Ratio of HDFC ELSS Tax Saver Fund Direct Plan Growth is 1.20% as of 05 Jul 2026...
 
 What is the AUM of HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
-The AUM, short for Assets Under Management of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹15,366.50Cr as of 04 Jul 2026.
+The AUM, short for Assets Under Management of HDFC ELSS Tax Saver Fund Direct Plan Growth is ₹15,366.50Cr as of 05 Jul 2026.
 
 How to Redeem HDFC ELSS Tax Saver Fund Direct Plan Growth?
 
