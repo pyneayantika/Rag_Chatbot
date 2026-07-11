@@ -1,10 +1,10 @@
 ---
 source_url: https://www.amfiindia.com/articles/mutual-fund
-scrape_date: 20260710
+scrape_date: 20260711
 tier: tier_3_amfi
 scheme_name: articles_mutual-fund
 domain: amfiindia.com
-content_hash: sha256:6f9a1d2d804ac669a3bd4a0c86507f8c81227642d7b5680b0782a2301d346a61
+content_hash: sha256:f6738aef49712a35b5d7f6dac95b01628c4818871de663de1a35f3644336cb1b
 word_count: 332
 ---
 
@@ -22,7 +22,7 @@ Research & Information
 About AMFI
 Contact Us
 Search
-Total amount collected through SIP during May 2026 was ₹ 30,954 crore.
+Total amount collected through SIP during June 2026 was ₹ 31,781 crore.
 Systematic Investment Plan
  or 
 SIP 
