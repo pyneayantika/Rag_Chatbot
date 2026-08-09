@@ -1,10 +1,10 @@
 ---
 source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
-scrape_date: 20260808
+scrape_date: 20260809
 tier: tier_1_groww
 scheme_name: mutual-funds_hdfc-equity-fund-direct-growth
 domain: groww.in
-content_hash: sha256:d49d5bd58b623523cf8d7ebc3e13c379918c959d8dc6182fbd5d964ee50bc235
+content_hash: sha256:4108600176cb4c5de80d3fe929eda84fa79cec92d43e8706ed101b7b27d20bf2
 word_count: 1752
 ---
 
@@ -121,7 +121,7 @@ Absolute returns
 Name 3Y 5Y 10Y All
 Fund returns +17.8% +18.7% +16.5% +16.2%
 Category average (Equity Flexi Cap) +16.0% +15.6% +13.5% --
-Rank (Equity Flexi Cap) 8 2 2 --
+Rank (Equity Flexi Cap) 9 2 3 --
 Exit load, stamp duty and tax
 Exit load
 Exit load of 1% if redeemed within 1 year
@@ -147,7 +147,7 @@ HDFC Flexi Cap Direct Plan Growth
 
  
 Parag Parikh Flexi Cap Fund Direct Growth
- +1.03% +14.72% 1,43,388.43
+ +0.90% +14.58% 1,43,388.43
 
  
 Franklin India Flexi Cap Fund Direct Growth
@@ -275,11 +275,11 @@ How much expense ratio is charged by HDFC Flexi Cap Direct Plan Growth?
 
 The term Expense Ratio used for HDFC Flexi Cap Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
 
-The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.74% as of 08 Aug 2026...
+The Expense Ratio of HDFC Flexi Cap Direct Plan Growth is 0.74% as of 09 Aug 2026...
 
 What is the AUM of HDFC Flexi Cap Direct Plan Growth?
 
-The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹1,06,495.63Cr as of 08 Aug 2026.
+The AUM, short for Assets Under Management of HDFC Flexi Cap Direct Plan Growth is ₹1,06,495.63Cr as of 09 Aug 2026.
 
 How to Redeem HDFC Flexi Cap Direct Plan Growth?
 
