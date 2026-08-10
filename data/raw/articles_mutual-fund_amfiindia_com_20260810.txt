@@ -1,6 +1,6 @@
 ---
 source_url: https://www.amfiindia.com/articles/mutual-fund
-scrape_date: 20260809
+scrape_date: 20260810
 tier: tier_3_amfi
 scheme_name: articles_mutual-fund
 domain: amfiindia.com
