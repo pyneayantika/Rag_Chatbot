@@ -1,12 +1,13 @@
 langchain
 langchain-community
-langchain-chroma
+langchain-chroma==1.1.0
 langchain-groq
 langchain-google-genai
 google-generativeai
 sentence-transformers
 torch
-chromadb
+chromadb==1.5.7
+hnswlib>=0.8.0
 python-dotenv
 fastapi
 uvicorn[standard]

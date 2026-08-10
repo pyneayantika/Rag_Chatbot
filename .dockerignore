@@ -1,0 +1,20 @@
+.git
+.github
+.env
+.env.*
+frontend/
+docs/
+tests/
+test_api.py
+test_results.txt
+data/raw/
+Problem statement.md
+README.md
+*.md
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+frontend/node_modules/

@@ -16,4 +16,5 @@ RUN pip install -r requirements-api.txt
 COPY . .
 
 ENV PORT=8080
+ENV CHROMA_API_IMPL=chromadb.api.segment.SegmentAPI
 CMD ["sh", "-c", "uvicorn src.api.main:app --host 0.0.0.0 --port ${PORT:-8080}"]

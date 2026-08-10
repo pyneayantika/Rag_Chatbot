@@ -14,6 +14,7 @@ jobs:
     timeout-minutes: 60
     env:
       PYTHONPATH: ${{ github.workspace }}
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repo
@@ -45,6 +46,7 @@ jobs:
         run: python src/ingestion/embedder.py
         env:
           EMBEDDING_PROVIDER: local
+          CHROMA_API_IMPL: chromadb.api.segment.SegmentAPI
 
       - name: Commit updated corpus
         run: |
