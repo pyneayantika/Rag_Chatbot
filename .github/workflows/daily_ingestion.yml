@@ -1,9 +1,11 @@
 name: Daily Corpus Refresh
 
+# Cron paused for stable portfolio hosting (Railway). Re-enable schedule when
+# you want daily corpus updates again. Manual runs still work via Actions tab.
 on:
-  schedule:
-    - cron: '45 3 * * *'
   workflow_dispatch:
+  # schedule:
+  #   - cron: '45 3 * * *'  # 9:15 AM IST daily
 
 permissions:
   contents: write
