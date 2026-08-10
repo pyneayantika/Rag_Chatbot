@@ -1,8 +1,7 @@
 import axios from 'axios'
 import { ChatResponse } from '../types'
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 
-                'https://rag-chatbot-wbqkcg.fly.dev'
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8080'
 
 export async function sendMessage(
   query: string, 
@@ -38,7 +37,7 @@ export async function sendMessage(
 export async function checkHealth(): Promise<boolean> {
   try {
     const controller = new AbortController()
-    const timeoutId = setTimeout(() => controller.abort(), 20000)
+    const timeoutId = setTimeout(() => controller.abort(), 60000)
     const response = await fetch(`${API_URL}/health`, {
       signal: controller.signal,
     })

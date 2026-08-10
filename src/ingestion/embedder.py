@@ -42,6 +42,9 @@ LOCAL_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 LOCAL_MODEL_KWARGS = {"device": "cpu"}
 LOCAL_ENCODE_KWARGS = {"normalize_embeddings": True}
 
+_embeddings_instance = None
+_vectorstore_instance = None
+
 
 # ============================================================================
 # Core functions
@@ -62,6 +65,10 @@ def _load_chunks() -> list[Document]:
 
 def _get_embeddings():
     """Initialise embedding model based on EMBEDDING_PROVIDER."""
+    global _embeddings_instance
+    if _embeddings_instance is not None:
+        return _embeddings_instance
+
     if EMBEDDING_PROVIDER == "local":
         print("Loading local HuggingFace embeddings...")
         embeddings = HuggingFaceEmbeddings(
@@ -70,6 +77,7 @@ def _get_embeddings():
             encode_kwargs=LOCAL_ENCODE_KWARGS,
         )
         print(f"Local embeddings loaded: {LOCAL_MODEL_NAME}")
+        _embeddings_instance = embeddings
         return embeddings
 
     if EMBEDDING_PROVIDER == "gemini":
@@ -84,6 +92,7 @@ def _get_embeddings():
             google_api_key=api_key,
         )
         print("Google Generative AI Embeddings loaded: models/gemini-embedding-001")
+        _embeddings_instance = embeddings
         return embeddings
 
     raise ValueError(
@@ -173,6 +182,10 @@ def get_vectorstore() -> Chroma:
     Returns:
         The ``Chroma`` vectorstore instance ready for queries.
     """
+    global _vectorstore_instance
+    if _vectorstore_instance is not None:
+        return _vectorstore_instance
+
     if not CHROMA_DIR.exists():
         raise FileNotFoundError(
             f"ChromaDB directory not found: {CHROMA_DIR}\n"
@@ -203,6 +216,7 @@ def get_vectorstore() -> Chroma:
 
     count = vectorstore._collection.count()
     print(f"Loaded vectorstore with {count} documents")
+    _vectorstore_instance = vectorstore
     return vectorstore
 
 

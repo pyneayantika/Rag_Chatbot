@@ -1,12 +1,11 @@
+# API-only deps without local embedding models (use with EMBEDDING_PROVIDER=gemini).
+# Chroma index must be rebuilt with gemini before deploying this profile.
 langchain
 langchain-community
 langchain-chroma==1.1.0
 langchain-groq
 langchain-google-genai
 google-generativeai
-sentence-transformers
-# torch is installed separately in Dockerfile (CPU-only wheel)
-torch
 chromadb==1.5.7
 hnswlib>=0.8.0
 python-dotenv

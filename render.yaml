@@ -1,0 +1,28 @@
+# Render Blueprint: https://render.com/docs/blueprint-spec
+# Connect this repo in Render Dashboard → New → Blueprint
+services:
+  - type: web
+    name: rag-chatbot-api
+    runtime: docker
+    region: singapore
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    envVars:
+      - key: CHROMA_API_IMPL
+        value: chromadb.api.segment.SegmentAPI
+      - key: EMBEDDING_PROVIDER
+        value: local
+      - key: OMP_NUM_THREADS
+        value: "1"
+      - key: MKL_NUM_THREADS
+        value: "1"
+      - key: TOKENIZERS_PARALLELISM
+        value: "false"
+      - key: HF_HUB_DISABLE_TELEMETRY
+        value: "1"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false

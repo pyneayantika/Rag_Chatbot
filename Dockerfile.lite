@@ -1,0 +1,23 @@
+# Low-memory image for Render free/starter (512 MB).
+# Requires EMBEDDING_PROVIDER=gemini and a Chroma index built with gemini.
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PIP_NO_CACHE_DIR=1
+ENV CHROMA_API_IMPL=chromadb.api.segment.SegmentAPI
+ENV EMBEDDING_PROVIDER=gemini
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements-api-lite.txt requirements-api.txt
+RUN pip install --upgrade pip && pip install -r requirements-api.txt
+
+COPY . .
+
+ENV PORT=8080
+CMD ["sh", "-c", "uvicorn src.api.main:app --host 0.0.0.0 --port ${PORT:-8080}"]
