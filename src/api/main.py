@@ -113,6 +113,29 @@ def debug_paths():
     return result
 
 
+@app.get("/debug/llm")
+def debug_llm():
+    from langchain_core.documents import Document
+    from src.generation.llm_client import GROQ_MODEL
+
+    info = {
+        "model": GROQ_MODEL,
+        "groq_key_set": bool(os.getenv("GROQ_API_KEY")),
+    }
+    dummy_chunk = Document(
+        page_content="This is a connectivity test chunk for HDFC Mutual Fund FAQ.",
+        metadata={"source_url": "https://www.hdfcfund.com", "scrape_date": "debug"},
+    )
+    try:
+        answer = generate_response("Reply with the single word OK.", [dummy_chunk])
+        info["llm_ok"] = True
+        info["answer_preview"] = (answer or "")[:200]
+    except Exception as exc:
+        info["llm_ok"] = False
+        info["error"] = f"{type(exc).__name__}: {exc}"[:600]
+    return info
+
+
 @app.post("/api/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
     try:
