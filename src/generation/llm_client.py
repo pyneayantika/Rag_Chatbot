@@ -44,7 +44,9 @@ STRICT RULES:
 MAX_CONTEXT_CHUNKS = 1
 MAX_CHARS_PER_CHUNK = 600
 RATE_LIMIT_RETRIES = 2
-MAX_OUTPUT_TOKENS = 160
+# gpt-oss reasoning tokens count toward the completion budget, so this
+# must be well above the ~3-sentence visible answer.
+MAX_OUTPUT_TOKENS = 1024
 
 
 # ============================================================================
@@ -58,10 +60,11 @@ def _get_llm() -> ChatGroq:
         raise ValueError("GROQ_API_KEY not found in environment")
 
     return ChatGroq(
-        model="llama-3.1-8b-instant",
+        model="openai/gpt-oss-20b",
         temperature=0,
         api_key=api_key,
         max_tokens=MAX_OUTPUT_TOKENS,
+        reasoning_effort="low",
         max_retries=2,
     )
 
