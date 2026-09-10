@@ -20,6 +20,8 @@ RUN pip install --upgrade pip \
 COPY requirements-api.txt .
 RUN pip install -r requirements-api.txt
 
+RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('BAAI/bge-small-en-v1.5')"
+
 COPY . .
 
 ENV PORT=8080
