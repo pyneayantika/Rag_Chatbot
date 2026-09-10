@@ -8,7 +8,9 @@ sentence-transformers
 # torch is installed separately in Dockerfile (CPU-only wheel)
 torch
 chromadb==1.5.7
-hnswlib>=0.8.0
+# chromadb's SegmentAPI needs Chroma's fork (has Index.file_handle_count);
+# vanilla hnswlib breaks vectorstore loading at runtime.
+chroma-hnswlib==0.7.6
 python-dotenv
 fastapi
 uvicorn[standard]
