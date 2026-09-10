@@ -41,6 +41,8 @@ STRICT RULES:
 7. Do not speculate, extrapolate, or provide forward-looking statements.
 """
 
+GROQ_MODEL = "openai/gpt-oss-20b"
+
 MAX_CONTEXT_CHUNKS = 1
 MAX_CHARS_PER_CHUNK = 600
 RATE_LIMIT_RETRIES = 2
@@ -60,7 +62,7 @@ def _get_llm() -> ChatGroq:
         raise ValueError("GROQ_API_KEY not found in environment")
 
     return ChatGroq(
-        model="openai/gpt-oss-20b",
+        model=GROQ_MODEL,
         temperature=0,
         api_key=api_key,
         max_tokens=MAX_OUTPUT_TOKENS,
